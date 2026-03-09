@@ -9,18 +9,18 @@
 
 ---
 
-### 🛠️ 技术栈 (Skill Icons)
+### 🛠️ Tech Stack
 
-#### ☁️ 云原生与基础设施 (Infrastructure)
+#### ☁️ Cloud Native & Infrastructure
 [![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,linux,nginx,jenkins,aws,githubactions&theme=dark)](https://skillicons.dev)
 
-#### ☕ 后端与 AI 开发 (Back-End & AI)
+#### ☕ Back-End & AI Development
 [![My Skills](https://skillicons.dev/icons?i=java,spring,maven,mysql,redis,nodejs&theme=dark)](https://skillicons.dev)
 
-#### 🎨 前端与跨端 (Front-End)
+#### 🎨 Front-End & Cross-Platform
 [![My Skills](https://skillicons.dev/icons?i=ts,js,vue,react,vite,pinia,tailwind,electron&theme=dark)](https://skillicons.dev)
 
-#### ✍️ 效率与知识管理 (Efficiency)
+#### ✍️ Productivity & Knowledge Base
 [![My Skills](https://skillicons.dev/icons?i=md,obsidian,vscode,idea,webstorm,postman,powershell&theme=dark)](https://skillicons.dev)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">A little more about me...  
@@ -76,6 +76,12 @@ const Siborne = {
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Siborne&theme=tokyonight&hide_border=false" alt="Siborne's GitHub Streak" />
   </a>
 </p>
+
+---
+
+### 💼 Professional Experience
+
+**Data Analysis Intern | Kingsoft Office (WPS)** *Dec 2025 – Present*
 
 ---
 
