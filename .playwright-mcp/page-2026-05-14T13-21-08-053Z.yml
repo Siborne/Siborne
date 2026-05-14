@@ -1,0 +1,303 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - generic [ref=e3]:
+      - link "Skip to content" [ref=e4] [cursor=pointer]:
+        - /url: "#start-of-content"
+      - banner [ref=e6]:
+        - heading "Navigation Menu" [level=2] [ref=e7]
+        - generic [ref=e9]:
+          - button "Toggle navigation" [ref=e11] [cursor=pointer]
+          - link "Homepage" [ref=e17] [cursor=pointer]:
+            - /url: /
+            - img [ref=e18]
+          - generic [ref=e20]:
+            - link "Sign in" [ref=e21] [cursor=pointer]:
+              - /url: /login?return_to=https%3A%2F%2Fgithub.com%2FSiborne%2FSiborne%2Fblob%2Fmain%2FREADME.md
+            - button "Appearance settings" [ref=e24] [cursor=pointer]:
+              - img
+    - main [ref=e28]:
+      - generic [ref=e29]:
+        - generic [ref=e30]:
+          - generic [ref=e32]:
+            - img [ref=e33]
+            - link "Siborne" [ref=e36] [cursor=pointer]:
+              - /url: /Siborne
+            - generic [ref=e37]: /
+            - strong [ref=e38]:
+              - link "Siborne" [ref=e39] [cursor=pointer]:
+                - /url: /Siborne/Siborne
+            - generic [ref=e40]: Public
+          - generic [ref=e41]:
+            - list:
+              - listitem [ref=e42]:
+                - link "You must be signed in to change notification settings" [ref=e43] [cursor=pointer]:
+                  - /url: /login?return_to=%2FSiborne%2FSiborne
+                  - img [ref=e44]
+                  - text: Notifications
+              - listitem [ref=e46]:
+                - link "Fork 0" [ref=e47] [cursor=pointer]:
+                  - /url: /login?return_to=%2FSiborne%2FSiborne
+                  - img [ref=e48]
+                  - text: Fork
+                  - generic "0" [ref=e50]
+              - listitem [ref=e51]:
+                - link "You must be signed in to star a repository" [ref=e53] [cursor=pointer]:
+                  - /url: /login?return_to=%2FSiborne%2FSiborne
+                  - img [ref=e54]
+                  - text: Star
+                  - generic "0 users starred this repository" [ref=e56]: "0"
+        - navigation "Repository" [ref=e57]:
+          - list [ref=e58]:
+            - listitem [ref=e59]:
+              - link "Code" [ref=e60] [cursor=pointer]:
+                - /url: /Siborne/Siborne
+                - img [ref=e61]
+                - generic [ref=e63]: Code
+            - listitem [ref=e64]:
+              - link "Issues" [ref=e65] [cursor=pointer]:
+                - /url: /Siborne/Siborne/issues
+                - img [ref=e66]
+                - generic [ref=e69]: Issues
+            - listitem [ref=e70]:
+              - link "Pull requests" [ref=e71] [cursor=pointer]:
+                - /url: /Siborne/Siborne/pulls
+                - img [ref=e72]
+                - generic [ref=e74]: Pull requests
+            - listitem [ref=e75]:
+              - link "Actions" [ref=e76] [cursor=pointer]:
+                - /url: /Siborne/Siborne/actions
+                - img [ref=e77]
+                - generic [ref=e79]: Actions
+            - listitem [ref=e80]:
+              - link "Projects" [ref=e81] [cursor=pointer]:
+                - /url: /Siborne/Siborne/projects
+                - img [ref=e82]
+                - generic [ref=e84]: Projects
+            - listitem [ref=e85]:
+              - link "Security and quality" [ref=e86] [cursor=pointer]:
+                - /url: /Siborne/Siborne/security
+                - img [ref=e87]
+                - generic [ref=e89]: Security and quality
+            - listitem [ref=e90]:
+              - link "Insights" [ref=e91] [cursor=pointer]:
+                - /url: /Siborne/Siborne/pulse
+                - img [ref=e92]
+                - generic [ref=e94]: Insights
+      - generic [ref=e105]:
+        - generic [ref=e109]:
+          - generic [ref=e110]:
+            - heading "Expand file tree" [level=2] [ref=e112]:
+              - button "Expand file tree" [ref=e113] [cursor=pointer]:
+                - img [ref=e114]
+            - button "main branch" [ref=e118] [cursor=pointer]:
+              - generic [ref=e119]:
+                - generic [ref=e121]:
+                  - img [ref=e123]
+                  - generic [ref=e126]: main
+                - generic:
+                  - img
+            - generic [ref=e128]:
+              - navigation "Breadcrumbs" [ref=e129]:
+                - heading "Breadcrumbs" [level=2] [ref=e130]
+                - list [ref=e131]:
+                  - listitem [ref=e132]:
+                    - link "Siborne" [ref=e133] [cursor=pointer]:
+                      - /url: /Siborne/Siborne/tree/main
+              - generic [ref=e134]:
+                - text: /
+                - heading "README.md" [level=1] [ref=e135]
+              - button "Copy path" [ref=e136] [cursor=pointer]:
+                - img [ref=e137]
+          - generic [ref=e142]:
+            - generic [ref=e145]:
+              - img [ref=e147]
+              - combobox "Go to file" [ref=e149]
+            - button "More file actions" [ref=e150] [cursor=pointer]:
+              - img [ref=e151]
+        - generic [ref=e153]:
+          - generic [ref=e155]:
+            - heading "Latest commit" [level=2] [ref=e156]
+            - generic [ref=e157]:
+              - generic [ref=e159]:
+                - link "Siborne" [ref=e160] [cursor=pointer]:
+                  - /url: /Siborne
+                  - img "Siborne" [ref=e161]
+                - link "commits by Siborne" [ref=e162] [cursor=pointer]:
+                  - /url: /Siborne/Siborne/commits?author=Siborne
+                  - text: Siborne
+              - generic [ref=e163]:
+                - link "Revise README for tech stack and experience" [ref=e166] [cursor=pointer]:
+                  - /url: /Siborne/Siborne/commit/c97a086da3afe2f57fa5d9ee0605207746eae881
+                - button "Open commit details" [ref=e167] [cursor=pointer]:
+                  - img [ref=e168]
+            - generic [ref=e170]:
+              - generic [ref=e172]:
+                - link "Commit c97a086" [ref=e173] [cursor=pointer]:
+                  - /url: /Siborne/Siborne/commit/c97a086da3afe2f57fa5d9ee0605207746eae881
+                  - text: c97a086
+                - text: ·
+                - generic "Mar 9, 2026, 2:36 PM GMT+8" [ref=e174]: Mar 9, 20262 months ago
+              - generic [ref=e175]:
+                - heading "History" [level=2] [ref=e176]
+                - link "View commit history for this file." [ref=e178] [cursor=pointer]:
+                  - /url: /Siborne/Siborne/commits/main/README.md
+                  - generic [ref=e179]:
+                    - generic:
+                      - img
+          - generic [ref=e181]:
+            - generic "4.24 KB" [ref=e185]: 92 lines (71 loc) · 4.24 KB
+            - generic [ref=e187]:
+              - heading "File metadata and controls" [level=2] [ref=e188]
+              - list "File view" [ref=e190]:
+                - listitem [ref=e191]:
+                  - button "Preview" [ref=e192] [cursor=pointer]:
+                    - generic [ref=e194]: Preview
+                - listitem [ref=e195]:
+                  - button "Code" [ref=e196] [cursor=pointer]:
+                    - generic [ref=e198]: Code
+                - listitem [ref=e199]:
+                  - button "Blame" [ref=e200] [cursor=pointer]:
+                    - generic [ref=e202]: Blame
+              - generic [ref=e203]:
+                - generic [ref=e204]:
+                  - generic [ref=e205]:
+                    - link "Raw" [ref=e207] [cursor=pointer]:
+                      - /url: https://github.com/Siborne/Siborne/raw/refs/heads/main/README.md
+                      - generic [ref=e209]: Raw
+                    - button "Copy raw file" [ref=e211] [cursor=pointer]:
+                      - img [ref=e212]
+                    - button "Download raw file" [ref=e216] [cursor=pointer]:
+                      - img [ref=e217]
+                  - generic [ref=e220]:
+                    - button "You must be signed in to make or propose changes" [disabled] [ref=e222]:
+                      - img [ref=e223]
+                    - button "More edit options" [ref=e226] [cursor=pointer]:
+                      - img [ref=e227]
+                - button "Outline" [ref=e229] [cursor=pointer]:
+                  - img [ref=e230]
+            - region [ref=e233]:
+              - article [ref=e235]:
+                - generic [ref=e236]:
+                  - heading "👨‍💻 Hi, I'm Siborne" [level=2] [ref=e237]:
+                    - text: 👨‍💻 Hi, I'm Siborne
+                    - link [ref=e239] [cursor=pointer]:
+                      - /url: https://camo.githubusercontent.com/d10b57636744d24ece2f9dbac6c4073d637131650073bce2435d23dd0526bdb7/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f31326f75664342304d795a31476f2f67697068792e676966
+                      - img [ref=e240]
+                  - 'link "Permalink: 👨‍💻 Hi, I''m Siborne" [ref=e241] [cursor=pointer]':
+                    - /url: "#‍-hi-im-siborne-"
+                    - img [ref=e242]
+                - paragraph:
+                  - generic [ref=e244]:
+                    - link:
+                      - /url: https://camo.githubusercontent.com/e57e0055b4687ec058cefc0ae09edac4926ad06321dd1ac4eb54898142d158aa/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966
+                      - img [ref=e245] [cursor=pointer]
+                - paragraph [ref=e246]:
+                  - link "Typing SVG" [ref=e247] [cursor=pointer]:
+                    - /url: https://git.io/typing-svg
+                    - img "Typing SVG" [ref=e248]
+                - paragraph [ref=e249]:
+                  - emphasis [ref=e250]:
+                    - text: "\"Vibe Coding\" Enthusiast | AI Agent & Full-Stack Developer | Student individual developers\""
+                    - link [ref=e252] [cursor=pointer]:
+                      - /url: https://camo.githubusercontent.com/5417b2eeea698072b823820f973c430610314505b97d2acf286a91797e460d1d/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966
+                      - img [ref=e253]
+                - separator [ref=e254]
+                - generic [ref=e255]:
+                  - heading "🛠️ Tech Stack" [level=3] [ref=e256]
+                  - 'link "Permalink: 🛠️ Tech Stack" [ref=e257] [cursor=pointer]':
+                    - /url: "#️-tech-stack"
+                    - img [ref=e258]
+                - generic [ref=e260]:
+                  - heading "☁️ Cloud Native & Infrastructure" [level=4] [ref=e261]
+                  - 'link "Permalink: ☁️ Cloud Native & Infrastructure" [ref=e262] [cursor=pointer]':
+                    - /url: "#️-cloud-native--infrastructure"
+                    - img [ref=e263]
+                - paragraph [ref=e265]:
+                  - link "My Skills" [ref=e266] [cursor=pointer]:
+                    - /url: https://skillicons.dev
+                    - img "My Skills" [ref=e267]
+                - generic [ref=e268]:
+                  - heading "☕ Back-End & AI Development" [level=4] [ref=e269]
+                  - 'link "Permalink: ☕ Back-End & AI Development" [ref=e270] [cursor=pointer]':
+                    - /url: "#-back-end--ai-development"
+                    - img [ref=e271]
+                - paragraph [ref=e273]:
+                  - link "My Skills" [ref=e274] [cursor=pointer]:
+                    - /url: https://skillicons.dev
+                    - img "My Skills" [ref=e275]
+                - generic [ref=e276]:
+                  - heading "🎨 Front-End & Cross-Platform" [level=4] [ref=e277]
+                  - 'link "Permalink: 🎨 Front-End & Cross-Platform" [ref=e278] [cursor=pointer]':
+                    - /url: "#-front-end--cross-platform"
+                    - img [ref=e279]
+                - paragraph [ref=e281]:
+                  - link "My Skills" [ref=e282] [cursor=pointer]:
+                    - /url: https://skillicons.dev
+                    - img "My Skills" [ref=e283]
+                - generic [ref=e284]:
+                  - heading "✍️ Productivity & Knowledge Base" [level=4] [ref=e285]
+                  - 'link "Permalink: ✍️ Productivity & Knowledge Base" [ref=e286] [cursor=pointer]':
+                    - /url: "#️-productivity--knowledge-base"
+                    - img [ref=e287]
+                - paragraph [ref=e289]:
+                  - link "My Skills" [ref=e290] [cursor=pointer]:
+                    - /url: https://skillicons.dev
+                    - img "My Skills" [ref=e291]
+                - generic [ref=e292]:
+                  - heading "A little more about me..." [level=3] [ref=e293]:
+                    - link [ref=e295] [cursor=pointer]:
+                      - /url: https://camo.githubusercontent.com/d1ea2b36ec5ce6acaa5affc02204d96dedaf7e0acbd83cea6cb1024c3f5a5ded/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f56674344417a634b767352364f4d307557672f67697068792e676966
+                      - img [ref=e296]
+                    - text: A little more about me...
+                  - 'link "Permalink: A little more about me..." [ref=e297] [cursor=pointer]':
+                    - /url: "#a-little-more-about-me"
+                    - img [ref=e298]
+                - generic [ref=e300]:
+                  - generic [ref=e301]: "const Siborne = { pronouns: \"He\" | \"Him\", identity: [\"Full-Stack Developer\", \"AI Agent Engineer\", \"Student individual developer\"], code: [\"Java ☕\", \"TypeScript\", \"JavaScript\", \"Markdown 📝\", \"SQL\", \"Kotlin\"], askMeAbout: [\"AI Agent Engineering 🤖\", \"SOP Automation ⚙️\", \"Spring Ecosystem 🐧\", \"Vibe Coding 🚀\"], technologies: { backEnd: { java: [\"Spring Boot 3\", \"Spring Cloud Alibaba ☁️\", \"Spring AI\", \"MyBatis-Plus\"], js: [\"Node.js\", \"Express\"], architecture: [\"Microservices\", \"Event-Driven\", \"RESTful APIs\"] }, frontEnd: { frameworks: [\"Vue.js 3 🐦\", \"React ⚛️\", \"Next.js\", \"Electron ⚡\"], css: [\"Tailwind 🎨\", \"Sass\", \"Element Plus 📦\"], logic: [\"Pinia\", \"Vite\", \"Responsive Design\"] }, cloudNative: { container: [\"Docker 🐳\", \"Kubernetes (K8s) ☸️\"], devOps: [\"CI/CD\", \"GitHub Actions 🤖\", \"Nginx 🛡️\", \"Jenkins\"], cloud: [\"AWS (Fargate, Lambda, S3)\", \"Alibaba Cloud\"] }, ai_Agent: { core: [\"GPT 🤖\", \"Vectorization 🗺️\", \"AI-driven SOPs\", \"Prompt Engineering\"], tools: [\"Cursor\", \"Trae\", \"Code Review Automation\"] }, databases: [\"MySQL 📊\", \"Redis 🚀\", \"PostgreSQL\", \"MongoDB\", \"SQLite\"], efficiency: [\"Obsidian 📒\", \"Mermaid.js 📊\", \"Markdown Masters\"] }, funFact: \"I can debug faster with a coffee in hand ☕!\" };"
+                  - button "Copy code to clipboard" [ref=e303] [cursor=pointer]:
+                    - img [ref=e304]
+                - separator [ref=e307]
+                - generic [ref=e308]:
+                  - heading "📊 GitHub Stats" [level=3] [ref=e309]
+                  - 'link "Permalink: 📊 GitHub Stats" [ref=e310] [cursor=pointer]':
+                    - /url: "#-github-stats"
+                    - img [ref=e311]
+                - paragraph [ref=e313]:
+                  - link "Siborne's GitHub Stats" [ref=e314] [cursor=pointer]:
+                    - /url: https://github.com/Siborne
+                    - img "Siborne's GitHub Stats" [ref=e315]
+                  - link "Siborne's Top Languages" [ref=e316] [cursor=pointer]:
+                    - /url: https://github.com/Siborne
+                    - img "Siborne's Top Languages" [ref=e317]
+                - paragraph [ref=e318]:
+                  - link "Siborne's GitHub Streak" [ref=e319] [cursor=pointer]:
+                    - /url: https://github.com/Siborne
+                    - img "Siborne's GitHub Streak" [ref=e320]
+                - separator [ref=e321]
+                - generic [ref=e322]:
+                  - heading "💼 Professional Experience" [level=3] [ref=e323]
+                  - 'link "Permalink: 💼 Professional Experience" [ref=e324] [cursor=pointer]':
+                    - /url: "#-professional-experience"
+                    - img [ref=e325]
+                - paragraph [ref=e327]:
+                  - strong [ref=e328]: Data Analysis Intern | Kingsoft Office (WPS)
+                  - emphasis [ref=e329]: Dec 2025 – Present
+                - separator [ref=e330]
+                - generic [ref=e331]:
+                  - heading "💬 Get in touch" [level=3] [ref=e332]
+                  - 'link "Permalink: 💬 Get in touch" [ref=e333] [cursor=pointer]':
+                    - /url: "#-get-in-touch"
+                    - img [ref=e334]
+                - list [ref=e336]:
+                  - listitem [ref=e337]:
+                    - strong [ref=e338]: Current Focus
+                    - text: ": Leading Java full-stack development with Generative AI integration."
+                  - listitem [ref=e339]:
+                    - strong [ref=e340]: Fun Fact
+                    - text: ": I can debug faster with a coffee in hand ☕!"
+                - paragraph [ref=e341]:
+                  - link [ref=e343] [cursor=pointer]:
+                    - /url: https://camo.githubusercontent.com/6b9c2a342f778248d0e947a1a4e7d332e59dadc140de25650cd23d2dd45a86f6/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c6e516a7057614f4e386e68723231764e572f67697068792e676966
+                    - img [ref=e344]
+                  - emphasis [ref=e345]: I love connecting with different people so if you want to say hi, I'll be happy to meet you more! 😊
+  - alert [ref=e349]
