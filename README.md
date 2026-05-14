@@ -31,6 +31,12 @@
 
 ---
 
+<div align="center">
+  <h2>Building in the AI Era</h2>
+  <p>AI Agent & Full-Stack Developer · Vibe Coding Enthusiast · Student Builder</p>
+  <p>I build agentic workflows, full-stack systems, and automation pipelines, turning ideas into usable products.</p>
+</div>
+
 ### 👨‍💻 About Me
 
 ```javascript

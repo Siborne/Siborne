@@ -1,0 +1,959 @@
+- generic [ref=e2]:
+  - generic [ref=e3]:
+    - link "Skip to content" [ref=e4] [cursor=pointer]:
+      - /url: "#start-of-content"
+    - banner [ref=e6]:
+      - heading "Navigation Menu" [level=2] [ref=e7]
+      - generic [ref=e9]:
+        - button "Toggle navigation" [ref=e11] [cursor=pointer]
+        - link "Homepage" [ref=e17] [cursor=pointer]:
+          - /url: /
+          - img [ref=e18]
+        - generic [ref=e20]:
+          - link "Sign in" [ref=e21] [cursor=pointer]:
+            - /url: /login?return_to=https%3A%2F%2Fgithub.com%2FKevinYoung-Kw
+          - button "Appearance settings" [ref=e24] [cursor=pointer]:
+            - img
+  - main [ref=e27]:
+    - generic [ref=e30]:
+      - generic [ref=e31]:
+        - generic:
+          - generic:
+            - generic:
+              - img "@KevinYoung-Kw"
+            - generic:
+              - strong: KevinYoung-Kw
+              - generic:
+                - generic:
+                  - link "Follow":
+                    - /url: /login?return_to=https%3A%2F%2Fgithub.com%2FKevinYoung-Kw
+      - generic [ref=e33]:
+        - navigation "User profile" [ref=e34]:
+          - link "Overview" [ref=e35] [cursor=pointer]:
+            - /url: /KevinYoung-Kw
+            - img [ref=e36]
+            - text: Overview
+          - link "Repositories 12" [ref=e38] [cursor=pointer]:
+            - /url: /KevinYoung-Kw?tab=repositories
+            - img [ref=e39]
+            - text: Repositories
+            - generic "12" [ref=e41]
+          - link "Projects" [ref=e42] [cursor=pointer]:
+            - /url: /KevinYoung-Kw?tab=projects
+            - img [ref=e43]
+            - text: Projects
+          - link "Packages" [ref=e45] [cursor=pointer]:
+            - /url: /KevinYoung-Kw?tab=packages
+            - img [ref=e46]
+            - text: Packages
+        - group [ref=e50]:
+          - button "More" [ref=e51] [cursor=pointer]:
+            - generic [ref=e52]:
+              - img [ref=e53]
+              - generic [ref=e55]: More
+    - generic [ref=e57]:
+      - generic [ref=e59]:
+        - generic:
+          - generic:
+            - generic:
+              - img "@KevinYoung-Kw"
+            - generic:
+              - generic:
+                - strong: KevinYoung-Kw
+            - generic:
+              - generic:
+                - generic:
+                  - link "Follow":
+                    - /url: /login?return_to=https%3A%2F%2Fgithub.com%2FKevinYoung-Kw
+        - generic [ref=e60]:
+          - generic [ref=e61]:
+            - generic [ref=e62]:
+              - link "View KevinYoung-Kw's full-sized avatar" [ref=e63] [cursor=pointer]:
+                - /url: https://avatars.githubusercontent.com/u/149243485?v=4
+                - img "View KevinYoung-Kw's full-sized avatar" [ref=e64]
+              - generic [ref=e67]:
+                - generic [ref=e69]: 👊
+                - generic: hit keyboard
+            - heading "Kw-aigc KevinYoung-Kw" [level=1] [ref=e71]:
+              - generic [ref=e72]: Kw-aigc
+              - generic [ref=e73]: KevinYoung-Kw
+          - generic [ref=e74]:
+            - link "Follow" [ref=e81] [cursor=pointer]:
+              - /url: /login?return_to=https%3A%2F%2Fgithub.com%2FKevinYoung-Kw
+            - generic [ref=e82]:
+              - generic [ref=e84]: "AI Product Person / Content Creator / OpenClaw Practitioner Currently exploring: Agentic workflows, knowledge compilers, and design-to-code."
+              - generic [ref=e86]:
+                - link "5 followers" [ref=e87] [cursor=pointer]:
+                  - /url: https://github.com/KevinYoung-Kw?tab=followers
+                  - img [ref=e88]
+                  - text: 5 followers
+                - text: ·
+                - link "11 following" [ref=e90] [cursor=pointer]:
+                  - /url: https://github.com/KevinYoung-Kw?tab=following
+              - list [ref=e91]:
+                - listitem [ref=e92]:
+                  - img [ref=e93]
+                  - link "www.kw-aigc.cn" [ref=e95] [cursor=pointer]:
+                    - /url: http://www.kw-aigc.cn
+          - generic [ref=e96]:
+            - heading "Achievements" [level=2] [ref=e97]:
+              - link "Achievements" [ref=e98] [cursor=pointer]:
+                - /url: /KevinYoung-Kw?tab=achievements
+            - generic [ref=e99]:
+              - 'link "Achievement: Quickdraw" [ref=e100] [cursor=pointer]':
+                - /url: /KevinYoung-Kw?achievement=quickdraw&tab=achievements
+                - 'img "Achievement: Quickdraw" [ref=e101]'
+              - 'link "Achievement: Pair Extraordinaire" [ref=e102] [cursor=pointer]':
+                - /url: /KevinYoung-Kw?achievement=pair-extraordinaire&tab=achievements
+                - 'img "Achievement: Pair Extraordinaire" [ref=e103]'
+              - 'link "Achievement: YOLO" [ref=e104] [cursor=pointer]':
+                - /url: /KevinYoung-Kw?achievement=yolo&tab=achievements
+                - 'img "Achievement: YOLO" [ref=e105]'
+              - 'link "Achievement: Pull Shark" [ref=e106] [cursor=pointer]':
+                - /url: /KevinYoung-Kw?achievement=pull-shark&tab=achievements
+                - 'img "Achievement: Pull Shark" [ref=e107]'
+          - generic [ref=e108]:
+            - heading "Highlights" [level=2] [ref=e109]
+            - list [ref=e110]:
+              - listitem [ref=e111]:
+                - img [ref=e112]
+                - 'generic "Label: Pro" [ref=e114]': Pro
+          - button "Block or report user" [ref=e116] [cursor=pointer]:
+            - generic [ref=e118]: Block or report user
+      - generic [ref=e121]:
+        - generic [ref=e123]:
+          - generic [ref=e125]:
+            - link "KevinYoung-Kw" [ref=e126] [cursor=pointer]:
+              - /url: /KevinYoung-Kw/KevinYoung-Kw
+            - generic [ref=e127]: /
+            - text: README.md
+          - article [ref=e128]:
+            - paragraph [ref=e129]:
+              - link "水的离子积 banner" [ref=e130] [cursor=pointer]:
+                - /url: /KevinYoung-Kw/KevinYoung-Kw/blob/main/assets/experience-cover.webp
+                - img "水的离子积 banner" [ref=e131]
+            - generic [ref=e132]:
+              - generic [ref=e133]:
+                - heading "水的离子积 / Kevin" [level=1] [ref=e134]
+                - 'link "Permalink: 水的离子积 / Kevin" [ref=e135] [cursor=pointer]':
+                  - /url: "#水的离子积--kevin"
+                  - img [ref=e136]
+              - generic [ref=e138]:
+                - heading "Building in AI Era" [level=3] [ref=e139]
+                - 'link "Permalink: Building in AI Era" [ref=e140] [cursor=pointer]':
+                  - /url: "#building-in-ai-era"
+                  - img [ref=e141]
+              - paragraph [ref=e143]:
+                - text: AI 产品实践者 · 自媒体博主 · 持续构建者
+                - text: AI product practitioner · content creator · builder
+              - paragraph [ref=e144]:
+                - link "KW 个人网站" [ref=e145] [cursor=pointer]:
+                  - /url: https://www.kw-aigc.cn
+                  - img "KW" [ref=e146]
+                  - text: 个人网站
+                - text: ·
+                - link "WeChat 公众号" [ref=e147] [cursor=pointer]:
+                  - /url: https://mp.weixin.qq.com/s/7ME2FZdOVlEmVxlGE1NqsQ
+                  - img "WeChat" [ref=e148]
+                  - text: 公众号
+                - text: ·
+                - link "Xiaohongshu 小红书" [ref=e149] [cursor=pointer]:
+                  - /url: https://www.xiaohongshu.com/user/profile/642c383e000000001001e9e4
+                  - img "Xiaohongshu" [ref=e150]
+                  - text: 小红书
+              - paragraph [ref=e151]:
+                - link [ref=e152] [cursor=pointer]:
+                  - /url: https://camo.githubusercontent.com/d5c43efc176dea278a8b6455226bd4764cd3dbda4799db477bb4a8a55b8aece2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f414925323050726f64756374732d3131313131313f7374796c653d666c61742d737175617265266c6f676f3d6f70656e6169266c6f676f436f6c6f723d7768697465
+                  - img [ref=e153]
+                - link [ref=e154] [cursor=pointer]:
+                  - /url: https://camo.githubusercontent.com/4c701e3a45b04f3798e1797496fef288ca0cf1f7b2e394574fa7b46a6b20317f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4167656e74253230576f726b666c6f772d3535353535353f7374796c653d666c61742d737175617265
+                  - img [ref=e155]
+                - link [ref=e156] [cursor=pointer]:
+                  - /url: https://camo.githubusercontent.com/f86361c44594c99e6bc8adce37f8af8623e419c170dfcbd18bffc3544ea154ef/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d3337373641423f7374796c653d666c61742d737175617265266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465
+                  - img [ref=e157]
+                - link [ref=e158] [cursor=pointer]:
+                  - /url: https://camo.githubusercontent.com/7b59fe78e410dcc1603384bf73d4ba7cc4b06d0c4e5984222de44edf4c290671/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631453f7374796c653d666c61742d737175617265266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b
+                  - img [ref=e159]
+                - link [ref=e160] [cursor=pointer]:
+                  - /url: https://camo.githubusercontent.com/e6bc1b669fe5e0006c51b579cbaff8c7cad53e00fdbc4eeab90b19076a201a5d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547970655363726970742d3331373843363f7374796c653d666c61742d737175617265266c6f676f3d74797065736372697074266c6f676f436f6c6f723d7768697465
+                  - img [ref=e161]
+                - link [ref=e162] [cursor=pointer]:
+                  - /url: https://camo.githubusercontent.com/840835b779db7791f57ebaf508e6a95983e30c0b762f1752e4f60dbccf85ee27/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6f64652e6a732d3333393933333f7374796c653d666c61742d737175617265266c6f676f3d6e6f6465646f746a73266c6f676f436f6c6f723d7768697465
+                  - img [ref=e163]
+            - generic [ref=e164]:
+              - heading "关于我 / About" [level=2] [ref=e165]
+              - 'link "Permalink: 关于我 / About" [ref=e166] [cursor=pointer]':
+                - /url: "#关于我--about"
+                - img [ref=e167]
+            - paragraph [ref=e169]:
+              - text: 我关注 AI 产品、Agent workflow、自动化工具链与个人知识系统，持续把实践沉淀为可复用的方法、原型与内容。
+              - text: I focus on AI products, agent workflows, automation toolchains, and personal knowledge systems—turning practice into reusable methods, prototypes, and content.
+            - generic [ref=e170]:
+              - heading "Focus" [level=2] [ref=e171]
+              - 'link "Permalink: Focus" [ref=e172] [cursor=pointer]':
+                - /url: "#focus"
+                - img [ref=e173]
+            - list [ref=e175]:
+              - listitem [ref=e176]: AI 产品方法与原型设计 / AI product thinking & prototyping
+              - listitem [ref=e177]: Agent workflow / OpenClaw / automation
+              - listitem [ref=e178]: Obsidian / LLM Wiki / personal knowledge systems
+              - listitem [ref=e179]: 内容写作与实践复盘 / writing from hands-on practice
+            - generic [ref=e180]:
+              - heading "当前关注 / Current Focus" [level=2] [ref=e181]
+              - 'link "Permalink: 当前关注 / Current Focus" [ref=e182] [cursor=pointer]':
+                - /url: "#当前关注--current-focus"
+                - img [ref=e183]
+            - list [ref=e185]:
+              - listitem [ref=e186]: AI-native 产品体验
+              - listitem [ref=e187]: Agent + Human 协作模式
+              - listitem [ref=e188]: 自动化工作流
+              - listitem [ref=e189]: 个人知识系统与内容生产系统
+              - listitem [ref=e190]: creator-led product mindset
+            - generic [ref=e191]:
+              - heading "内容与写作 / Writing" [level=2] [ref=e192]
+              - 'link "Permalink: 内容与写作 / Writing" [ref=e193] [cursor=pointer]':
+                - /url: "#内容与写作--writing"
+                - img [ref=e194]
+            - paragraph [ref=e196]:
+              - text: 我持续分享 AI 产品深度测评、自动化实践、Agent 工作流，以及个人系统搭建。
+              - text: I write about AI product reviews, automation practice, agent workflows, and personal systems.
+            - generic [ref=e197]:
+              - heading "技术栈 / Tech Stack" [level=2] [ref=e198]
+              - 'link "Permalink: 技术栈 / Tech Stack" [ref=e199] [cursor=pointer]':
+                - /url: "#技术栈--tech-stack"
+                - img [ref=e200]
+            - generic [ref=e202]:
+              - heading "Product & AI" [level=3] [ref=e203]
+              - 'link "Permalink: Product & AI" [ref=e204] [cursor=pointer]':
+                - /url: "#product--ai"
+                - img [ref=e205]
+            - paragraph [ref=e207]:
+              - link "AI Product Design" [ref=e208] [cursor=pointer]:
+                - /url: https://camo.githubusercontent.com/5ca5ed79ba765fba0718a1ad5dea461caac38e02f5acc6e2e1276034c1d05e45/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f414925323050726f6475637425323044657369676e2d3131313131313f7374796c653d666c61742d737175617265266c6f676f3d6f70656e6169266c6f676f436f6c6f723d7768697465
+                - img "AI Product Design" [ref=e209]
+              - link "Workflow Design" [ref=e210] [cursor=pointer]:
+                - /url: https://camo.githubusercontent.com/edced8fcf91c225fb096c4a89fd67b5734d8daf1b884666eeebcc20f43f52a69/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f576f726b666c6f7725323044657369676e2d3642344633413f7374796c653d666c61742d737175617265
+                - img "Workflow Design" [ref=e211]
+              - link "Prompt Engineering" [ref=e212] [cursor=pointer]:
+                - /url: https://camo.githubusercontent.com/2e4f13d325911434d62d9a56c09dcebcb0e57e541fea99c013261d8f9f2f539c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f50726f6d7074253230456e67696e656572696e672d3841364235323f7374796c653d666c61742d737175617265
+                - img "Prompt Engineering" [ref=e213]
+              - link "AI Evaluation" [ref=e214] [cursor=pointer]:
+                - /url: https://camo.githubusercontent.com/b064a9988eadefcba56dcbef853448c85b5d22cef61231c0957f92bb929508f4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f41492532304576616c756174696f6e2d4235394137413f7374796c653d666c61742d737175617265
+                - img "AI Evaluation" [ref=e215]
+            - generic [ref=e216]:
+              - heading "Engineering" [level=3] [ref=e217]
+              - 'link "Permalink: Engineering" [ref=e218] [cursor=pointer]':
+                - /url: "#engineering"
+                - img [ref=e219]
+            - paragraph [ref=e221]:
+              - link "Python" [ref=e222] [cursor=pointer]:
+                - /url: https://camo.githubusercontent.com/f86361c44594c99e6bc8adce37f8af8623e419c170dfcbd18bffc3544ea154ef/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d3337373641423f7374796c653d666c61742d737175617265266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465
+                - img "Python" [ref=e223]
+              - link "JavaScript" [ref=e224] [cursor=pointer]:
+                - /url: https://camo.githubusercontent.com/7b59fe78e410dcc1603384bf73d4ba7cc4b06d0c4e5984222de44edf4c290671/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631453f7374796c653d666c61742d737175617265266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b
+                - img "JavaScript" [ref=e225]
+              - link "TypeScript" [ref=e226] [cursor=pointer]:
+                - /url: https://camo.githubusercontent.com/e6bc1b669fe5e0006c51b579cbaff8c7cad53e00fdbc4eeab90b19076a201a5d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547970655363726970742d3331373843363f7374796c653d666c61742d737175617265266c6f676f3d74797065736372697074266c6f676f436f6c6f723d7768697465
+                - img "TypeScript" [ref=e227]
+              - link "Node.js" [ref=e228] [cursor=pointer]:
+                - /url: https://camo.githubusercontent.com/840835b779db7791f57ebaf508e6a95983e30c0b762f1752e4f60dbccf85ee27/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6f64652e6a732d3333393933333f7374796c653d666c61742d737175617265266c6f676f3d6e6f6465646f746a73266c6f676f436f6c6f723d7768697465
+                - img "Node.js" [ref=e229]
+              - link "API Integration" [ref=e230] [cursor=pointer]:
+                - /url: https://camo.githubusercontent.com/4398f0b31a04214c755685cb986c9c5a5f84ce784ed36d43d4bac097295c77b1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f415049253230496e746567726174696f6e2d3642373238303f7374796c653d666c61742d737175617265
+                - img "API Integration" [ref=e231]
+              - link "CLI Tools" [ref=e232] [cursor=pointer]:
+                - /url: https://camo.githubusercontent.com/2936a0da3ede2c31aa02234579805c99865377836ec755ea66c8d78351df9e08/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f434c49253230546f6f6c732d3337343135313f7374796c653d666c61742d737175617265
+                - img "CLI Tools" [ref=e233]
+            - generic [ref=e234]:
+              - heading "Automation & Knowledge" [level=3] [ref=e235]
+              - 'link "Permalink: Automation & Knowledge" [ref=e236] [cursor=pointer]':
+                - /url: "#automation--knowledge"
+                - img [ref=e237]
+            - paragraph [ref=e239]:
+              - link "Agent Workflow" [ref=e240] [cursor=pointer]:
+                - /url: https://camo.githubusercontent.com/44ce883c196668284ca531cb72dfb8f1e7cf79928023bc90b8d2b49ca4d34036/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4167656e74253230576f726b666c6f772d3642344633413f7374796c653d666c61742d737175617265
+                - img "Agent Workflow" [ref=e241]
+              - link "OpenClaw" [ref=e242] [cursor=pointer]:
+                - /url: https://camo.githubusercontent.com/14180db588c51a1ace96274c86293e60510826b588a509ca3467b40da3ef611a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4f70656e436c61772d3841364235323f7374796c653d666c61742d737175617265
+                - img "OpenClaw" [ref=e243]
+              - link "Obsidian" [ref=e244] [cursor=pointer]:
+                - /url: https://camo.githubusercontent.com/e4e42bd6369c619ac7efbab74619810bedf99ea316290fc18c5034c31b78600b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4f6273696469616e2d3743334145443f7374796c653d666c61742d737175617265266c6f676f3d6f6273696469616e266c6f676f436f6c6f723d7768697465
+                - img "Obsidian" [ref=e245]
+              - link "Markdown" [ref=e246] [cursor=pointer]:
+                - /url: https://camo.githubusercontent.com/4a0c0ecf57c030d09f5db1c5572d39f6912469698988b14d40a113498e6deb16/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d61726b646f776e2d3030303030303f7374796c653d666c61742d737175617265266c6f676f3d6d61726b646f776e266c6f676f436f6c6f723d7768697465
+                - img "Markdown" [ref=e247]
+              - link "LLM Wiki" [ref=e248] [cursor=pointer]:
+                - /url: https://camo.githubusercontent.com/b6cef25bd5c39d16a6cd84a4aad6dec3ec977fe84b085f5034f9a1df9f1ac9c3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c4c4d25323057696b692d4235394137413f7374796c653d666c61742d737175617265
+                - img "LLM Wiki" [ref=e249]
+            - generic [ref=e250]:
+              - heading "Building Style" [level=3] [ref=e251]
+              - 'link "Permalink: Building Style" [ref=e252] [cursor=pointer]':
+                - /url: "#building-style"
+                - img [ref=e253]
+            - paragraph [ref=e255]:
+              - link "Rapid Prototyping" [ref=e256] [cursor=pointer]:
+                - /url: https://camo.githubusercontent.com/3e60a0d5d63e2ebfc2293f8388ee022e94dc2ea92949d4f0ac073840e4b41a2e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f526170696425323050726f746f747970696e672d3842354533433f7374796c653d666c61742d737175617265
+                - img "Rapid Prototyping" [ref=e257]
+              - link "Solo-building" [ref=e258] [cursor=pointer]:
+                - /url: https://camo.githubusercontent.com/4efc55b52dd4434fa743f75aec21a7e1225a0e2849f9f1bffe7d5f5016c48f78/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f536f6c6f2d2d6275696c64696e672d3646344533373f7374796c653d666c61742d737175617265
+                - img "Solo-building" [ref=e259]
+              - link "Vibe Coding" [ref=e260] [cursor=pointer]:
+                - /url: https://camo.githubusercontent.com/b663fcd41ef9b00456ffc4968f43af708af9a892fddeae6d61d077b21c68547d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56696265253230436f64696e672d4136374335323f7374796c653d666c61742d737175617265
+                - img "Vibe Coding" [ref=e261]
+            - generic [ref=e262]:
+              - heading "GitHub Stats" [level=2] [ref=e263]
+              - 'link "Permalink: GitHub Stats" [ref=e264] [cursor=pointer]':
+                - /url: "#github-stats"
+                - img [ref=e265]
+            - generic [ref=e267]:
+              - link [ref=e268] [cursor=pointer]:
+                - /url: https://camo.githubusercontent.com/99809273816d951f31209996656b3d6bd0c04d1f9e61608703fc9b9c096490ff/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d4b6576696e596f756e672d4b772673686f775f69636f6e733d7472756526686964655f626f726465723d747275652672616e6b5f69636f6e3d676974687562266c6f63616c653d636e2662675f636f6c6f723d3030303030303030267469746c655f636f6c6f723d36423446334126746578745f636f6c6f723d3841364235322669636f6e5f636f6c6f723d413637433532
+                - img [ref=e269]
+              - link [ref=e270] [cursor=pointer]:
+                - /url: https://camo.githubusercontent.com/e8104e5c1148617446ffae3d73eca3034108388737106117cdc97ba3b8e15ead/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d4b6576696e596f756e672d4b77266c61796f75743d636f6d7061637426686964655f626f726465723d74727565266c616e67735f636f756e743d362662675f636f6c6f723d3030303030303030267469746c655f636f6c6f723d36423446334126746578745f636f6c6f723d384136423532
+                - img [ref=e271]
+            - generic [ref=e272]:
+              - heading "Contact" [level=2] [ref=e273]
+              - 'link "Permalink: Contact" [ref=e274] [cursor=pointer]':
+                - /url: "#contact"
+                - img [ref=e275]
+            - list [ref=e277]:
+              - listitem [ref=e278]:
+                - text: "Email:"
+                - code [ref=e279]: hi@kw-aigc.cn
+              - listitem [ref=e280]:
+                - text: "WeChat:"
+                - code [ref=e281]: kwaigc
+            - blockquote [ref=e282]:
+              - paragraph [ref=e283]:
+                - text: 把工具跑进工作流，把实践沉淀成系统。
+                - text: Turn tools into workflows, and turn practice into systems.
+        - generic [ref=e285]:
+          - heading "Popular repositories Loading" [level=2] [ref=e286]:
+            - text: Popular repositories
+            - generic [ref=e287]: Loading
+            - status
+          - list [ref=e288]:
+            - listitem [ref=e289]:
+              - generic [ref=e291]:
+                - generic [ref=e292]:
+                  - link "scau-cs-homework" [ref=e294] [cursor=pointer]:
+                    - /url: /KevinYoung-Kw/scau-cs-homework
+                  - generic [ref=e296]: Public
+                - paragraph [ref=e297]: 华南农业大学计算机系/信工系各个科目的综合性实验资料、代码，欢迎校友一起来维护这个项目
+                - paragraph [ref=e298]:
+                  - generic [ref=e299]: C++
+                  - link "stars 12" [ref=e301] [cursor=pointer]:
+                    - /url: /KevinYoung-Kw/scau-cs-homework/stargazers
+                    - img "stars" [ref=e302]
+                    - text: "12"
+            - listitem [ref=e304]:
+              - generic [ref=e306]:
+                - generic [ref=e307]:
+                  - link "robust-llm-wiki" [ref=e309] [cursor=pointer]:
+                    - /url: /KevinYoung-Kw/robust-llm-wiki
+                  - generic [ref=e311]: Public
+                - paragraph [ref=e312]: Research-backed schema framework for maintaining Karpathy-style LLM Wikis with robust ingest/query/lint operations.
+                - paragraph [ref=e313]:
+                  - link "stars 9" [ref=e314] [cursor=pointer]:
+                    - /url: /KevinYoung-Kw/robust-llm-wiki/stargazers
+                    - img "stars" [ref=e315]
+                    - text: "9"
+                  - link "fork 1" [ref=e317] [cursor=pointer]:
+                    - /url: /KevinYoung-Kw/robust-llm-wiki/forks
+                    - img "fork" [ref=e318]
+                    - text: "1"
+            - listitem [ref=e320]:
+              - generic [ref=e322]:
+                - generic [ref=e323]:
+                  - link "UTM" [ref=e325] [cursor=pointer]:
+                    - /url: /KevinYoung-Kw/UTM
+                  - generic [ref=e327]: Public
+                - paragraph [ref=e328]:
+                  - text: Forked from
+                  - link "utmapp/UTM" [ref=e329] [cursor=pointer]:
+                    - /url: /utmapp/UTM
+                - paragraph [ref=e330]: Virtual machines for iOS and macOS
+                - paragraph [ref=e331]:
+                  - generic [ref=e332]: Swift
+            - listitem [ref=e334]:
+              - generic [ref=e336]:
+                - generic [ref=e337]:
+                  - link "SoulNote" [ref=e339] [cursor=pointer]:
+                    - /url: /KevinYoung-Kw/SoulNote
+                  - generic [ref=e341]: Public
+                - paragraph [ref=e342]
+                - paragraph [ref=e343]:
+                  - generic [ref=e344]: Vue
+            - listitem [ref=e346]:
+              - generic [ref=e348]:
+                - generic [ref=e349]:
+                  - link "WechatGroupDivide" [ref=e351] [cursor=pointer]:
+                    - /url: /KevinYoung-Kw/WechatGroupDivide
+                  - generic [ref=e353]: Public
+                - paragraph [ref=e354]
+                - paragraph [ref=e355]:
+                  - generic [ref=e356]: JavaScript
+            - listitem [ref=e358]:
+              - generic [ref=e360]:
+                - generic [ref=e361]:
+                  - link "producthunt-daily-hot" [ref=e363] [cursor=pointer]:
+                    - /url: /KevinYoung-Kw/producthunt-daily-hot
+                  - generic [ref=e365]: Public
+                - paragraph [ref=e366]:
+                  - text: Forked from
+                  - link "ViggoZ/producthunt-daily-hot" [ref=e367] [cursor=pointer]:
+                    - /url: /ViggoZ/producthunt-daily-hot
+                - paragraph [ref=e368]: 自动生成每日Product Hunt热门产品中文榜单，基于GitHub Actions自动提交Markdown文件
+                - paragraph [ref=e369]:
+                  - generic [ref=e370]: Python
+        - generic [ref=e374]:
+          - generic [ref=e375]:
+            - generic [ref=e376]:
+              - heading "583 contributions in the last year" [level=2] [ref=e377]
+              - generic [ref=e379]:
+                - grid "Contribution Graph" [ref=e381]:
+                  - caption [ref=e382]: Contribution Graph
+                  - rowgroup [ref=e383]:
+                    - row "Day of Week May June July August September October November December January February March April May" [ref=e384]:
+                      - gridcell "Day of Week" [ref=e385]:
+                        - generic [ref=e386]: Day of Week
+                      - gridcell "May" [ref=e387]:
+                        - generic [ref=e388]: May
+                        - generic [ref=e389]: May
+                      - gridcell "June" [ref=e390]:
+                        - generic [ref=e391]: June
+                        - generic [ref=e392]: Jun
+                      - gridcell "July" [ref=e393]:
+                        - generic [ref=e394]: July
+                        - generic [ref=e395]: Jul
+                      - gridcell "August" [ref=e396]:
+                        - generic [ref=e397]: August
+                        - generic [ref=e398]: Aug
+                      - gridcell "September" [ref=e399]:
+                        - generic [ref=e400]: September
+                        - generic [ref=e401]: Sep
+                      - gridcell "October" [ref=e402]:
+                        - generic [ref=e403]: October
+                        - generic [ref=e404]: Oct
+                      - gridcell "November" [ref=e405]:
+                        - generic [ref=e406]: November
+                        - generic [ref=e407]: Nov
+                      - gridcell "December" [ref=e408]:
+                        - generic [ref=e409]: December
+                        - generic [ref=e410]: Dec
+                      - gridcell "January" [ref=e411]:
+                        - generic [ref=e412]: January
+                        - generic [ref=e413]: Jan
+                      - gridcell "February" [ref=e414]:
+                        - generic [ref=e415]: February
+                        - generic [ref=e416]: Feb
+                      - gridcell "March" [ref=e417]:
+                        - generic [ref=e418]: March
+                        - generic [ref=e419]: Mar
+                      - gridcell "April" [ref=e420]:
+                        - generic [ref=e421]: April
+                        - generic [ref=e422]: Apr
+                      - gridcell "May" [ref=e423]:
+                        - generic [ref=e424]: May
+                        - generic [ref=e425]: May
+                  - rowgroup [ref=e426]:
+                    - row [ref=e427]:
+                      - gridcell "Sunday" [ref=e428]:
+                        - generic [ref=e429]: Sunday
+                        - generic [ref=e430]: Sun
+                      - gridcell "No contributions on May 11th." [ref=e431]
+                      - gridcell "No contributions on May 18th." [ref=e432]
+                      - gridcell "No contributions on May 25th." [ref=e433]
+                      - gridcell "No contributions on June 1st." [ref=e434]
+                      - gridcell "No contributions on June 8th." [ref=e435]
+                      - gridcell "No contributions on June 15th." [ref=e436]
+                      - gridcell "No contributions on June 22nd." [ref=e437]
+                      - gridcell "No contributions on June 29th." [ref=e438]
+                      - gridcell "No contributions on July 6th." [ref=e439]
+                      - gridcell "No contributions on July 13th." [ref=e440]
+                      - gridcell "No contributions on July 20th." [ref=e441]
+                      - gridcell "No contributions on July 27th." [ref=e442]
+                      - gridcell "13 contributions on August 3rd." [ref=e443]
+                      - gridcell "No contributions on August 10th." [ref=e444]
+                      - gridcell "No contributions on August 17th." [ref=e445]
+                      - gridcell "No contributions on August 24th." [ref=e446]
+                      - gridcell "No contributions on August 31st." [ref=e447]
+                      - gridcell "No contributions on September 7th." [ref=e448]
+                      - gridcell "No contributions on September 14th." [ref=e449]
+                      - gridcell "No contributions on September 21st." [ref=e450]
+                      - gridcell "2 contributions on September 28th." [ref=e451]
+                      - gridcell "No contributions on October 5th." [ref=e452]
+                      - gridcell "4 contributions on October 12th." [ref=e453]
+                      - gridcell "No contributions on October 19th." [ref=e454]
+                      - gridcell "No contributions on October 26th." [ref=e455]
+                      - gridcell "No contributions on November 2nd." [ref=e456]
+                      - gridcell "No contributions on November 9th." [ref=e457]
+                      - gridcell "No contributions on November 16th." [ref=e458]
+                      - gridcell "No contributions on November 23rd." [ref=e459]
+                      - gridcell "No contributions on November 30th." [ref=e460]
+                      - gridcell "No contributions on December 7th." [ref=e461]
+                      - gridcell "No contributions on December 14th." [ref=e462]
+                      - gridcell "3 contributions on December 21st." [ref=e463]
+                      - gridcell "No contributions on December 28th." [ref=e464]
+                      - gridcell "No contributions on January 4th." [ref=e465]
+                      - gridcell "3 contributions on January 11th." [ref=e466]
+                      - gridcell "36 contributions on January 18th." [ref=e467]
+                      - gridcell "7 contributions on January 25th." [ref=e468]
+                      - gridcell "10 contributions on February 1st." [ref=e469]
+                      - gridcell "8 contributions on February 8th." [ref=e470]
+                      - gridcell "1 contribution on February 15th." [ref=e471]
+                      - gridcell "No contributions on February 22nd." [ref=e472]
+                      - gridcell "No contributions on March 1st." [ref=e473]
+                      - gridcell "No contributions on March 8th." [ref=e474]
+                      - gridcell "No contributions on March 15th." [ref=e475]
+                      - gridcell "No contributions on March 22nd." [ref=e476]
+                      - gridcell "No contributions on March 29th." [ref=e477]
+                      - gridcell "No contributions on April 5th." [ref=e478]
+                      - gridcell "No contributions on April 12th." [ref=e479]
+                      - gridcell "6 contributions on April 19th." [ref=e480]
+                      - gridcell "No contributions on April 26th." [ref=e481]
+                      - gridcell "No contributions on May 3rd." [ref=e482]
+                      - gridcell "No contributions on May 10th." [ref=e483]
+                    - row [ref=e484]:
+                      - gridcell "Monday" [ref=e485]:
+                        - generic [ref=e486]: Monday
+                        - generic [ref=e487]: Mon
+                      - gridcell "No contributions on May 12th." [ref=e488]
+                      - gridcell "No contributions on May 19th." [ref=e489]
+                      - gridcell "No contributions on May 26th." [ref=e490]
+                      - gridcell "No contributions on June 2nd." [ref=e491]
+                      - gridcell "No contributions on June 9th." [ref=e492]
+                      - gridcell "1 contribution on June 16th." [ref=e493]
+                      - gridcell "No contributions on June 23rd." [ref=e494]
+                      - gridcell "No contributions on June 30th." [ref=e495]
+                      - gridcell "No contributions on July 7th." [ref=e496]
+                      - gridcell "No contributions on July 14th." [ref=e497]
+                      - gridcell "No contributions on July 21st." [ref=e498]
+                      - gridcell "No contributions on July 28th." [ref=e499]
+                      - gridcell "10 contributions on August 4th." [ref=e500]
+                      - gridcell "No contributions on August 11th." [ref=e501]
+                      - gridcell "5 contributions on August 18th." [ref=e502]
+                      - gridcell "3 contributions on August 25th." [ref=e503]
+                      - gridcell "No contributions on September 1st." [ref=e504]
+                      - gridcell "2 contributions on September 8th." [ref=e505]
+                      - gridcell "No contributions on September 15th." [ref=e506]
+                      - gridcell "No contributions on September 22nd." [ref=e507]
+                      - gridcell "3 contributions on September 29th." [ref=e508]
+                      - gridcell "No contributions on October 6th." [ref=e509]
+                      - gridcell "No contributions on October 13th." [ref=e510]
+                      - gridcell "No contributions on October 20th." [ref=e511]
+                      - gridcell "No contributions on October 27th." [ref=e512]
+                      - gridcell "No contributions on November 3rd." [ref=e513]
+                      - gridcell "No contributions on November 10th." [ref=e514]
+                      - gridcell "1 contribution on November 17th." [ref=e515]
+                      - gridcell "No contributions on November 24th." [ref=e516]
+                      - gridcell "No contributions on December 1st." [ref=e517]
+                      - gridcell "No contributions on December 8th." [ref=e518]
+                      - gridcell "No contributions on December 15th." [ref=e519]
+                      - gridcell "3 contributions on December 22nd." [ref=e520]
+                      - gridcell "13 contributions on December 29th." [ref=e521]
+                      - gridcell "No contributions on January 5th." [ref=e522]
+                      - gridcell "6 contributions on January 12th." [ref=e523]
+                      - gridcell "4 contributions on January 19th." [ref=e524]
+                      - gridcell "1 contribution on January 26th." [ref=e525]
+                      - gridcell "5 contributions on February 2nd." [ref=e526]
+                      - gridcell "2 contributions on February 9th." [ref=e527]
+                      - gridcell "No contributions on February 16th." [ref=e528]
+                      - gridcell "No contributions on February 23rd." [ref=e529]
+                      - gridcell "No contributions on March 2nd." [ref=e530]
+                      - gridcell "No contributions on March 9th." [ref=e531]
+                      - gridcell "No contributions on March 16th." [ref=e532]
+                      - gridcell "No contributions on March 23rd." [ref=e533]
+                      - gridcell "No contributions on March 30th." [ref=e534]
+                      - gridcell "No contributions on April 6th." [ref=e535]
+                      - gridcell "No contributions on April 13th." [ref=e536]
+                      - gridcell "1 contribution on April 20th." [ref=e537]
+                      - gridcell "No contributions on April 27th." [ref=e538]
+                      - gridcell "No contributions on May 4th." [ref=e539]
+                      - gridcell "No contributions on May 11th." [ref=e540]
+                    - row [ref=e541]:
+                      - gridcell "Tuesday" [ref=e542]:
+                        - generic [ref=e543]: Tuesday
+                        - generic [ref=e544]: Tue
+                      - gridcell "No contributions on May 13th." [ref=e545]
+                      - gridcell "No contributions on May 20th." [ref=e546]
+                      - gridcell "No contributions on May 27th." [ref=e547]
+                      - gridcell "No contributions on June 3rd." [ref=e548]
+                      - gridcell "No contributions on June 10th." [ref=e549]
+                      - gridcell "13 contributions on June 17th." [ref=e550]
+                      - gridcell "No contributions on June 24th." [ref=e551]
+                      - gridcell "No contributions on July 1st." [ref=e552]
+                      - gridcell "No contributions on July 8th." [ref=e553]
+                      - gridcell "No contributions on July 15th." [ref=e554]
+                      - gridcell "No contributions on July 22nd." [ref=e555]
+                      - gridcell "No contributions on July 29th." [ref=e556]
+                      - gridcell "1 contribution on August 5th." [ref=e557]
+                      - gridcell "No contributions on August 12th." [ref=e558]
+                      - gridcell "15 contributions on August 19th." [ref=e559]
+                      - gridcell "1 contribution on August 26th." [ref=e560]
+                      - gridcell "4 contributions on September 2nd." [ref=e561]
+                      - gridcell "4 contributions on September 9th." [ref=e562]
+                      - gridcell "No contributions on September 16th." [ref=e563]
+                      - gridcell "No contributions on September 23rd." [ref=e564]
+                      - gridcell "4 contributions on September 30th." [ref=e565]
+                      - gridcell "No contributions on October 7th." [ref=e566]
+                      - gridcell "6 contributions on October 14th." [ref=e567]
+                      - gridcell "No contributions on October 21st." [ref=e568]
+                      - gridcell "No contributions on October 28th." [ref=e569]
+                      - gridcell "No contributions on November 4th." [ref=e570]
+                      - gridcell "7 contributions on November 11th." [ref=e571]
+                      - gridcell "2 contributions on November 18th." [ref=e572]
+                      - gridcell "No contributions on November 25th." [ref=e573]
+                      - gridcell "No contributions on December 2nd." [ref=e574]
+                      - gridcell "No contributions on December 9th." [ref=e575]
+                      - gridcell "No contributions on December 16th." [ref=e576]
+                      - gridcell "No contributions on December 23rd." [ref=e577]
+                      - gridcell "1 contribution on December 30th." [ref=e578]
+                      - gridcell "9 contributions on January 6th." [ref=e579]
+                      - gridcell "No contributions on January 13th." [ref=e580]
+                      - gridcell "7 contributions on January 20th." [ref=e581]
+                      - gridcell "4 contributions on January 27th." [ref=e582]
+                      - gridcell "2 contributions on February 3rd." [ref=e583]
+                      - gridcell "No contributions on February 10th." [ref=e584]
+                      - gridcell "No contributions on February 17th." [ref=e585]
+                      - gridcell "No contributions on February 24th." [ref=e586]
+                      - gridcell "No contributions on March 3rd." [ref=e587]
+                      - gridcell "No contributions on March 10th." [ref=e588]
+                      - gridcell "1 contribution on March 17th." [ref=e589]
+                      - gridcell "2 contributions on March 24th." [ref=e590]
+                      - gridcell "No contributions on March 31st." [ref=e591]
+                      - gridcell "No contributions on April 7th." [ref=e592]
+                      - gridcell "No contributions on April 14th." [ref=e593]
+                      - gridcell "No contributions on April 21st." [ref=e594]
+                      - gridcell "No contributions on April 28th." [ref=e595]
+                      - gridcell "No contributions on May 5th." [ref=e596]
+                      - gridcell "No contributions on May 12th." [ref=e597]
+                    - row [ref=e598]:
+                      - gridcell "Wednesday" [ref=e599]:
+                        - generic [ref=e600]: Wednesday
+                        - generic [ref=e601]: Wed
+                      - gridcell "No contributions on May 14th." [ref=e602]
+                      - gridcell "No contributions on May 21st." [ref=e603]
+                      - gridcell "6 contributions on May 28th." [ref=e604]
+                      - gridcell "No contributions on June 4th." [ref=e605]
+                      - gridcell "No contributions on June 11th." [ref=e606]
+                      - gridcell "7 contributions on June 18th." [ref=e607]
+                      - gridcell "No contributions on June 25th." [ref=e608]
+                      - gridcell "No contributions on July 2nd." [ref=e609]
+                      - gridcell "No contributions on July 9th." [ref=e610]
+                      - gridcell "No contributions on July 16th." [ref=e611]
+                      - gridcell "No contributions on July 23rd." [ref=e612]
+                      - gridcell "No contributions on July 30th." [ref=e613]
+                      - gridcell "6 contributions on August 6th." [ref=e614]
+                      - gridcell "No contributions on August 13th." [ref=e615]
+                      - gridcell "12 contributions on August 20th." [ref=e616]
+                      - gridcell "5 contributions on August 27th." [ref=e617]
+                      - gridcell "1 contribution on September 3rd." [ref=e618]
+                      - gridcell "1 contribution on September 10th." [ref=e619]
+                      - gridcell "No contributions on September 17th." [ref=e620]
+                      - gridcell "No contributions on September 24th." [ref=e621]
+                      - gridcell "No contributions on October 1st." [ref=e622]
+                      - gridcell "4 contributions on October 8th." [ref=e623]
+                      - gridcell "No contributions on October 15th." [ref=e624]
+                      - gridcell "No contributions on October 22nd." [ref=e625]
+                      - gridcell "No contributions on October 29th." [ref=e626]
+                      - gridcell "No contributions on November 5th." [ref=e627]
+                      - gridcell "No contributions on November 12th." [ref=e628]
+                      - gridcell "No contributions on November 19th." [ref=e629]
+                      - gridcell "No contributions on November 26th." [ref=e630]
+                      - gridcell "No contributions on December 3rd." [ref=e631]
+                      - gridcell "10 contributions on December 10th." [ref=e632]
+                      - gridcell "No contributions on December 17th." [ref=e633]
+                      - gridcell "No contributions on December 24th." [ref=e634]
+                      - gridcell "No contributions on December 31st." [ref=e635]
+                      - gridcell "4 contributions on January 7th." [ref=e636]
+                      - gridcell "2 contributions on January 14th." [ref=e637]
+                      - gridcell "No contributions on January 21st." [ref=e638]
+                      - gridcell "8 contributions on January 28th." [ref=e639]
+                      - gridcell "5 contributions on February 4th." [ref=e640]
+                      - gridcell "No contributions on February 11th." [ref=e641]
+                      - gridcell "No contributions on February 18th." [ref=e642]
+                      - gridcell "No contributions on February 25th." [ref=e643]
+                      - gridcell "No contributions on March 4th." [ref=e644]
+                      - gridcell "1 contribution on March 11th." [ref=e645]
+                      - gridcell "No contributions on March 18th." [ref=e646]
+                      - gridcell "No contributions on March 25th." [ref=e647]
+                      - gridcell "No contributions on April 1st." [ref=e648]
+                      - gridcell "4 contributions on April 8th." [ref=e649]
+                      - gridcell "24 contributions on April 15th." [ref=e650]
+                      - gridcell "No contributions on April 22nd." [ref=e651]
+                      - gridcell "3 contributions on April 29th." [ref=e652]
+                      - gridcell "No contributions on May 6th." [ref=e653]
+                      - gridcell "2 contributions on May 13th." [ref=e654]
+                    - row [ref=e655]:
+                      - gridcell "Thursday" [ref=e656]:
+                        - generic [ref=e657]: Thursday
+                        - generic [ref=e658]: Thu
+                      - gridcell "No contributions on May 15th." [ref=e659]
+                      - gridcell "No contributions on May 22nd." [ref=e660]
+                      - gridcell "No contributions on May 29th." [ref=e661]
+                      - gridcell "No contributions on June 5th." [ref=e662]
+                      - gridcell "No contributions on June 12th." [ref=e663]
+                      - gridcell "No contributions on June 19th." [ref=e664]
+                      - gridcell "No contributions on June 26th." [ref=e665]
+                      - gridcell "No contributions on July 3rd." [ref=e666]
+                      - gridcell "No contributions on July 10th." [ref=e667]
+                      - gridcell "No contributions on July 17th." [ref=e668]
+                      - gridcell "No contributions on July 24th." [ref=e669]
+                      - gridcell "No contributions on July 31st." [ref=e670]
+                      - gridcell "No contributions on August 7th." [ref=e671]
+                      - gridcell "No contributions on August 14th." [ref=e672]
+                      - gridcell "No contributions on August 21st." [ref=e673]
+                      - gridcell "1 contribution on August 28th." [ref=e674]
+                      - gridcell "1 contribution on September 4th." [ref=e675]
+                      - gridcell "1 contribution on September 11th." [ref=e676]
+                      - gridcell "No contributions on September 18th." [ref=e677]
+                      - gridcell "No contributions on September 25th." [ref=e678]
+                      - gridcell "No contributions on October 2nd." [ref=e679]
+                      - gridcell "2 contributions on October 9th." [ref=e680]
+                      - gridcell "1 contribution on October 16th." [ref=e681]
+                      - gridcell "No contributions on October 23rd." [ref=e682]
+                      - gridcell "No contributions on October 30th." [ref=e683]
+                      - gridcell "No contributions on November 6th." [ref=e684]
+                      - gridcell "No contributions on November 13th." [ref=e685]
+                      - gridcell "No contributions on November 20th." [ref=e686]
+                      - gridcell "No contributions on November 27th." [ref=e687]
+                      - gridcell "No contributions on December 4th." [ref=e688]
+                      - gridcell "3 contributions on December 11th." [ref=e689]
+                      - gridcell "4 contributions on December 18th." [ref=e690]
+                      - gridcell "No contributions on December 25th." [ref=e691]
+                      - gridcell "No contributions on January 1st." [ref=e692]
+                      - gridcell "4 contributions on January 8th." [ref=e693]
+                      - gridcell "No contributions on January 15th." [ref=e694]
+                      - gridcell "1 contribution on January 22nd." [ref=e695]
+                      - gridcell "17 contributions on January 29th." [ref=e696]
+                      - gridcell "2 contributions on February 5th." [ref=e697]
+                      - gridcell "No contributions on February 12th." [ref=e698]
+                      - gridcell "No contributions on February 19th." [ref=e699]
+                      - gridcell "No contributions on February 26th." [ref=e700]
+                      - gridcell "No contributions on March 5th." [ref=e701]
+                      - gridcell "No contributions on March 12th." [ref=e702]
+                      - gridcell "No contributions on March 19th." [ref=e703]
+                      - gridcell "No contributions on March 26th." [ref=e704]
+                      - gridcell "No contributions on April 2nd." [ref=e705]
+                      - gridcell "49 contributions on April 9th." [ref=e706]
+                      - gridcell "21 contributions on April 16th." [ref=e707]
+                      - gridcell "3 contributions on April 23rd." [ref=e708]
+                      - gridcell "No contributions on April 30th." [ref=e709]
+                      - gridcell "No contributions on May 7th." [ref=e710]
+                      - gridcell "No contributions on May 14th." [ref=e711]
+                    - row [ref=e712]:
+                      - gridcell "Friday" [ref=e713]:
+                        - generic [ref=e714]: Friday
+                        - generic [ref=e715]: Fri
+                      - gridcell "No contributions on May 16th." [ref=e716]
+                      - gridcell "No contributions on May 23rd." [ref=e717]
+                      - gridcell "No contributions on May 30th." [ref=e718]
+                      - gridcell "No contributions on June 6th." [ref=e719]
+                      - gridcell "4 contributions on June 13th." [ref=e720]
+                      - gridcell "No contributions on June 20th." [ref=e721]
+                      - gridcell "No contributions on June 27th." [ref=e722]
+                      - gridcell "No contributions on July 4th." [ref=e723]
+                      - gridcell "No contributions on July 11th." [ref=e724]
+                      - gridcell "No contributions on July 18th." [ref=e725]
+                      - gridcell "No contributions on July 25th." [ref=e726]
+                      - gridcell "No contributions on August 1st." [ref=e727]
+                      - gridcell "No contributions on August 8th." [ref=e728]
+                      - gridcell "No contributions on August 15th." [ref=e729]
+                      - gridcell "No contributions on August 22nd." [ref=e730]
+                      - gridcell "2 contributions on August 29th." [ref=e731]
+                      - gridcell "4 contributions on September 5th." [ref=e732]
+                      - gridcell "No contributions on September 12th." [ref=e733]
+                      - gridcell "No contributions on September 19th." [ref=e734]
+                      - gridcell "2 contributions on September 26th." [ref=e735]
+                      - gridcell "No contributions on October 3rd." [ref=e736]
+                      - gridcell "No contributions on October 10th." [ref=e737]
+                      - gridcell "No contributions on October 17th." [ref=e738]
+                      - gridcell "No contributions on October 24th." [ref=e739]
+                      - gridcell "No contributions on October 31st." [ref=e740]
+                      - gridcell "6 contributions on November 7th." [ref=e741]
+                      - gridcell "No contributions on November 14th." [ref=e742]
+                      - gridcell "No contributions on November 21st." [ref=e743]
+                      - gridcell "No contributions on November 28th." [ref=e744]
+                      - gridcell "No contributions on December 5th." [ref=e745]
+                      - gridcell "3 contributions on December 12th." [ref=e746]
+                      - gridcell "3 contributions on December 19th." [ref=e747]
+                      - gridcell "No contributions on December 26th." [ref=e748]
+                      - gridcell "No contributions on January 2nd." [ref=e749]
+                      - gridcell "2 contributions on January 9th." [ref=e750]
+                      - gridcell "6 contributions on January 16th." [ref=e751]
+                      - gridcell "No contributions on January 23rd." [ref=e752]
+                      - gridcell "4 contributions on January 30th." [ref=e753]
+                      - gridcell "No contributions on February 6th." [ref=e754]
+                      - gridcell "No contributions on February 13th." [ref=e755]
+                      - gridcell "No contributions on February 20th." [ref=e756]
+                      - gridcell "No contributions on February 27th." [ref=e757]
+                      - gridcell "No contributions on March 6th." [ref=e758]
+                      - gridcell "9 contributions on March 13th." [ref=e759]
+                      - gridcell "No contributions on March 20th." [ref=e760]
+                      - gridcell "No contributions on March 27th." [ref=e761]
+                      - gridcell "No contributions on April 3rd." [ref=e762]
+                      - gridcell "No contributions on April 10th." [ref=e763]
+                      - gridcell "11 contributions on April 17th." [ref=e764]
+                      - gridcell "No contributions on April 24th." [ref=e765]
+                      - gridcell "No contributions on May 1st." [ref=e766]
+                      - gridcell "No contributions on May 8th." [ref=e767]
+                      - gridcell [ref=e768]
+                    - row [ref=e769]:
+                      - gridcell "Saturday" [ref=e770]:
+                        - generic [ref=e771]: Saturday
+                        - generic [ref=e772]: Sat
+                      - gridcell "No contributions on May 17th." [ref=e773]
+                      - gridcell "No contributions on May 24th." [ref=e774]
+                      - gridcell "No contributions on May 31st." [ref=e775]
+                      - gridcell "No contributions on June 7th." [ref=e776]
+                      - gridcell "No contributions on June 14th." [ref=e777]
+                      - gridcell "No contributions on June 21st." [ref=e778]
+                      - gridcell "No contributions on June 28th." [ref=e779]
+                      - gridcell "No contributions on July 5th." [ref=e780]
+                      - gridcell "No contributions on July 12th." [ref=e781]
+                      - gridcell "No contributions on July 19th." [ref=e782]
+                      - gridcell "No contributions on July 26th." [ref=e783]
+                      - gridcell "9 contributions on August 2nd." [ref=e784]
+                      - gridcell "No contributions on August 9th." [ref=e785]
+                      - gridcell "No contributions on August 16th." [ref=e786]
+                      - gridcell "No contributions on August 23rd." [ref=e787]
+                      - gridcell "No contributions on August 30th." [ref=e788]
+                      - gridcell "No contributions on September 6th." [ref=e789]
+                      - gridcell "No contributions on September 13th." [ref=e790]
+                      - gridcell "No contributions on September 20th." [ref=e791]
+                      - gridcell "1 contribution on September 27th." [ref=e792]
+                      - gridcell "No contributions on October 4th." [ref=e793]
+                      - gridcell "4 contributions on October 11th." [ref=e794]
+                      - gridcell "No contributions on October 18th." [ref=e795]
+                      - gridcell "No contributions on October 25th." [ref=e796]
+                      - gridcell "No contributions on November 1st." [ref=e797]
+                      - gridcell "No contributions on November 8th." [ref=e798]
+                      - gridcell "No contributions on November 15th." [ref=e799]
+                      - gridcell "No contributions on November 22nd." [ref=e800]
+                      - gridcell "No contributions on November 29th." [ref=e801]
+                      - gridcell "No contributions on December 6th." [ref=e802]
+                      - gridcell "2 contributions on December 13th." [ref=e803]
+                      - gridcell "11 contributions on December 20th." [ref=e804]
+                      - gridcell "No contributions on December 27th." [ref=e805]
+                      - gridcell "10 contributions on January 3rd." [ref=e806]
+                      - gridcell "1 contribution on January 10th." [ref=e807]
+                      - gridcell "14 contributions on January 17th." [ref=e808]
+                      - gridcell "1 contribution on January 24th." [ref=e809]
+                      - gridcell "10 contributions on January 31st." [ref=e810]
+                      - gridcell "No contributions on February 7th." [ref=e811]
+                      - gridcell "1 contribution on February 14th." [ref=e812]
+                      - gridcell "No contributions on February 21st." [ref=e813]
+                      - gridcell "No contributions on February 28th." [ref=e814]
+                      - gridcell "No contributions on March 7th." [ref=e815]
+                      - gridcell "No contributions on March 14th." [ref=e816]
+                      - gridcell "No contributions on March 21st." [ref=e817]
+                      - gridcell "No contributions on March 28th." [ref=e818]
+                      - gridcell "No contributions on April 4th." [ref=e819]
+                      - gridcell "No contributions on April 11th." [ref=e820]
+                      - gridcell "12 contributions on April 18th." [ref=e821]
+                      - gridcell "No contributions on April 25th." [ref=e822]
+                      - gridcell "No contributions on May 2nd." [ref=e823]
+                      - gridcell "No contributions on May 9th." [ref=e824]
+                      - gridcell [ref=e825]
+                - generic [ref=e826]:
+                  - link "Learn how we count contributions" [ref=e828] [cursor=pointer]:
+                    - /url: https://docs.github.com/articles/why-are-my-contributions-not-showing-up-on-my-profile
+                  - generic [ref=e829]:
+                    - generic [ref=e830]: Less
+                    - generic [ref=e832]: No contributions.
+                    - generic [ref=e834]: Low contributions.
+                    - generic [ref=e836]: Medium-low contributions.
+                    - generic [ref=e838]: Medium-high contributions.
+                    - generic [ref=e840]: High contributions.
+                    - generic [ref=e841]: More
+            - generic [ref=e843]:
+              - navigation "Organizations" [ref=e845]:
+                - link "@wpsnote" [ref=e846] [cursor=pointer]:
+                  - /url: /KevinYoung-Kw?tab=overview&org=wpsnote
+              - generic [ref=e847]:
+                - generic [ref=e848]:
+                  - heading "Activity overview" [level=3] [ref=e849]
+                  - generic [ref=e850]:
+                    - img [ref=e851]
+                    - generic [ref=e853]:
+                      - text: Contributed to
+                      - link "KevinYoung-Kw/chacha_space" [ref=e854] [cursor=pointer]:
+                        - /url: /KevinYoung-Kw/chacha_space
+                      - text: ","
+                      - link "op7418/CodePilot" [ref=e855] [cursor=pointer]:
+                        - /url: /op7418/CodePilot
+                      - text: ","
+                      - link "wpsnote/wpsnote-skills" [ref=e856] [cursor=pointer]:
+                        - /url: /wpsnote/wpsnote-skills
+                      - text: and 5 other repositories
+                - generic [ref=e858]:
+                  - generic [ref=e859]: Loading
+                  - img "A graph representing KevinYoung-Kw's contributions from May 11, 2025 to May 14, 2026. The contributions are 97% commits, 2% pull requests, 1% issues, 0% code review." [ref=e860]:
+                    - generic [ref=e861]:
+                      - generic [ref=e867]: Code review
+                      - generic [ref=e868]: 1%
+                      - generic [ref=e869]: Issues
+                      - generic [ref=e870]: 2%
+                      - generic [ref=e871]: Pull requests
+                      - generic [ref=e872]: 97%
+                      - generic [ref=e873]: Commits
+          - generic [ref=e874]:
+            - heading "Contribution activity" [level=2] [ref=e875]
+            - generic [ref=e877]:
+              - heading "May 2026" [level=3] [ref=e878]:
+                - generic [ref=e879]: May 2026
+              - generic [ref=e880]:
+                - img [ref=e882]
+                - group [ref=e886]:
+                  - button "Created 2 commits in 1 repository" [expanded] [ref=e887] [cursor=pointer]:
+                    - text: Created 2 commits in 1 repository
+                    - img [ref=e890]
+                  - list [ref=e893]:
+                    - listitem [ref=e894]:
+                      - generic [ref=e895]:
+                        - link "wpsnote/wpsnote-skills" [ref=e896] [cursor=pointer]:
+                          - /url: /wpsnote/wpsnote-skills
+                        - link "2 commits" [ref=e897] [cursor=pointer]:
+                          - /url: /wpsnote/wpsnote-skills/commits?author=KevinYoung-Kw&since=2026-05-01&until=2026-05-15
+                      - img "100% of commits in May were made to wpsnote/wpsnote-skills" [ref=e899]
+            - generic [ref=e901]:
+              - generic [ref=e902]: Loading
+              - button "Show more activity" [ref=e903] [cursor=pointer]
+  - contentinfo [ref=e904]:
+    - heading "Footer" [level=2] [ref=e905]
+    - generic [ref=e906]:
+      - generic [ref=e907]:
+        - link "GitHub Homepage" [ref=e908] [cursor=pointer]:
+          - /url: https://github.com
+          - img [ref=e909]
+        - generic [ref=e911]: © 2026 GitHub, Inc.
+      - navigation "Footer" [ref=e912]:
+        - heading "Footer navigation" [level=3] [ref=e913]
+        - list "Footer navigation" [ref=e914]:
+          - listitem [ref=e915]:
+            - link "Terms" [ref=e916] [cursor=pointer]:
+              - /url: https://docs.github.com/site-policy/github-terms/github-terms-of-service
+          - listitem [ref=e917]:
+            - link "Privacy" [ref=e918] [cursor=pointer]:
+              - /url: https://docs.github.com/site-policy/privacy-policies/github-privacy-statement
+          - listitem [ref=e919]:
+            - link "Security" [ref=e920] [cursor=pointer]:
+              - /url: https://github.com/security
+          - listitem [ref=e921]:
+            - link "Status" [ref=e922] [cursor=pointer]:
+              - /url: https://www.githubstatus.com/
+          - listitem [ref=e923]:
+            - link "Community" [ref=e924] [cursor=pointer]:
+              - /url: https://github.community/
+          - listitem [ref=e925]:
+            - link "Docs" [ref=e926] [cursor=pointer]:
+              - /url: https://docs.github.com/
+          - listitem [ref=e927]:
+            - link "Contact" [ref=e928] [cursor=pointer]:
+              - /url: https://support.github.com?tags=dotcom-footer
+          - listitem [ref=e929]:
+            - button "Manage cookies" [ref=e931] [cursor=pointer]
+          - listitem [ref=e932]:
+            - button "Do not share my personal information" [ref=e934] [cursor=pointer]

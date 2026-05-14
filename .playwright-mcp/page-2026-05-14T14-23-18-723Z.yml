@@ -1,0 +1,288 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - generic [ref=e3]:
+      - link "Skip to content" [ref=e4] [cursor=pointer]:
+        - /url: "#start-of-content"
+      - banner [ref=e6]:
+        - heading "Navigation Menu" [level=2] [ref=e7]
+        - generic [ref=e9]:
+          - button "Toggle navigation" [ref=e11] [cursor=pointer]
+          - link "Homepage" [ref=e17] [cursor=pointer]:
+            - /url: /
+            - img [ref=e18]
+          - generic [ref=e20]:
+            - link "Sign in" [ref=e21] [cursor=pointer]:
+              - /url: /login?return_to=https%3A%2F%2Fgithub.com%2FSiborne%2FSiborne%2Fblob%2Fmain%2FREADME.md
+            - button "Appearance settings" [ref=e24] [cursor=pointer]:
+              - img
+    - main [ref=e28]:
+      - generic [ref=e29]:
+        - generic [ref=e30]:
+          - generic [ref=e32]:
+            - img [ref=e33]
+            - link "Siborne" [ref=e36] [cursor=pointer]:
+              - /url: /Siborne
+            - generic [ref=e37]: /
+            - strong [ref=e38]:
+              - link "Siborne" [ref=e39] [cursor=pointer]:
+                - /url: /Siborne/Siborne
+            - generic [ref=e40]: Public
+          - generic [ref=e41]:
+            - list:
+              - listitem [ref=e42]:
+                - link "You must be signed in to change notification settings" [ref=e43] [cursor=pointer]:
+                  - /url: /login?return_to=%2FSiborne%2FSiborne
+                  - img [ref=e44]
+                  - text: Notifications
+              - listitem [ref=e46]:
+                - link "Fork 0" [ref=e47] [cursor=pointer]:
+                  - /url: /login?return_to=%2FSiborne%2FSiborne
+                  - img [ref=e48]
+                  - text: Fork
+                  - generic "0" [ref=e50]
+              - listitem [ref=e51]:
+                - link "You must be signed in to star a repository" [ref=e53] [cursor=pointer]:
+                  - /url: /login?return_to=%2FSiborne%2FSiborne
+                  - img [ref=e54]
+                  - text: Star
+                  - generic "0 users starred this repository" [ref=e56]: "0"
+        - navigation "Repository" [ref=e57]:
+          - list [ref=e58]:
+            - listitem [ref=e59]:
+              - link "Code" [ref=e60] [cursor=pointer]:
+                - /url: /Siborne/Siborne
+                - img [ref=e61]
+                - generic [ref=e63]: Code
+            - listitem [ref=e64]:
+              - link "Issues" [ref=e65] [cursor=pointer]:
+                - /url: /Siborne/Siborne/issues
+                - img [ref=e66]
+                - generic [ref=e69]: Issues
+            - listitem [ref=e70]:
+              - link "Pull requests" [ref=e71] [cursor=pointer]:
+                - /url: /Siborne/Siborne/pulls
+                - img [ref=e72]
+                - generic [ref=e74]: Pull requests
+            - listitem [ref=e75]:
+              - link "Actions" [ref=e76] [cursor=pointer]:
+                - /url: /Siborne/Siborne/actions
+                - img [ref=e77]
+                - generic [ref=e79]: Actions
+            - listitem [ref=e80]:
+              - link "Projects" [ref=e81] [cursor=pointer]:
+                - /url: /Siborne/Siborne/projects
+                - img [ref=e82]
+                - generic [ref=e84]: Projects
+            - listitem [ref=e85]:
+              - link "Security and quality" [ref=e86] [cursor=pointer]:
+                - /url: /Siborne/Siborne/security
+                - img [ref=e87]
+                - generic [ref=e89]: Security and quality
+            - listitem [ref=e90]:
+              - link "Insights" [ref=e91] [cursor=pointer]:
+                - /url: /Siborne/Siborne/pulse
+                - img [ref=e92]
+                - generic [ref=e94]: Insights
+      - generic [ref=e105]:
+        - generic [ref=e109]:
+          - generic [ref=e110]:
+            - heading "Expand file tree" [level=2] [ref=e112]:
+              - button "Expand file tree" [ref=e113] [cursor=pointer]:
+                - img [ref=e114]
+            - button "main branch" [ref=e118] [cursor=pointer]:
+              - generic [ref=e119]:
+                - generic [ref=e121]:
+                  - img [ref=e123]
+                  - generic [ref=e126]: main
+                - generic:
+                  - img
+            - generic [ref=e128]:
+              - navigation "Breadcrumbs" [ref=e129]:
+                - heading "Breadcrumbs" [level=2] [ref=e130]
+                - list [ref=e131]:
+                  - listitem [ref=e132]:
+                    - link "Siborne" [ref=e133] [cursor=pointer]:
+                      - /url: /Siborne/Siborne/tree/main
+              - generic [ref=e134]:
+                - text: /
+                - heading "README.md" [level=1] [ref=e135]
+              - button "Copy path" [ref=e136] [cursor=pointer]:
+                - img [ref=e137]
+          - generic [ref=e142]:
+            - generic [ref=e145]:
+              - img [ref=e147]
+              - combobox "Go to file" [ref=e149]
+            - button "More file actions" [ref=e150] [cursor=pointer]:
+              - img [ref=e151]
+        - generic [ref=e153]:
+          - generic [ref=e155]:
+            - heading "Latest commit" [level=2] [ref=e156]
+            - generic [ref=e157]:
+              - generic [ref=e159]:
+                - link "Siborne" [ref=e160] [cursor=pointer]:
+                  - /url: /Siborne
+                  - img "Siborne" [ref=e161]
+                - link "commits by Siborne" [ref=e162] [cursor=pointer]:
+                  - /url: /Siborne/Siborne/commits?author=Siborne
+                  - text: Siborne
+              - link "Refactor code structure for improved readability and maintainability" [ref=e166] [cursor=pointer]:
+                - /url: /Siborne/Siborne/commit/f99300990379ce719f4535a3c095167a6b607d1c
+            - generic [ref=e167]:
+              - generic [ref=e169]:
+                - link "Commit f993009" [ref=e170] [cursor=pointer]:
+                  - /url: /Siborne/Siborne/commit/f99300990379ce719f4535a3c095167a6b607d1c
+                  - text: f993009
+                - text: ·
+                - generic "May 14, 2026, 9:58 PM GMT+8" [ref=e171]: May 14, 202625 minutes ago
+              - generic [ref=e172]:
+                - heading "History" [level=2] [ref=e173]
+                - link "View commit history for this file." [ref=e175] [cursor=pointer]:
+                  - /url: /Siborne/Siborne/commits/main/README.md
+                  - generic [ref=e176]:
+                    - generic:
+                      - img
+          - generic [ref=e178]:
+            - generic "5.64 KB" [ref=e182]: 148 lines (128 loc) · 5.64 KB
+            - generic [ref=e184]:
+              - heading "File metadata and controls" [level=2] [ref=e185]
+              - list "File view" [ref=e187]:
+                - listitem [ref=e188]:
+                  - button "Preview" [ref=e189] [cursor=pointer]:
+                    - generic [ref=e191]: Preview
+                - listitem [ref=e192]:
+                  - button "Code" [ref=e193] [cursor=pointer]:
+                    - generic [ref=e195]: Code
+                - listitem [ref=e196]:
+                  - button "Blame" [ref=e197] [cursor=pointer]:
+                    - generic [ref=e199]: Blame
+              - generic [ref=e200]:
+                - generic [ref=e201]:
+                  - generic [ref=e202]:
+                    - link "Raw" [ref=e204] [cursor=pointer]:
+                      - /url: https://github.com/Siborne/Siborne/raw/refs/heads/main/README.md
+                      - generic [ref=e206]: Raw
+                    - button "Copy raw file" [ref=e208] [cursor=pointer]:
+                      - img [ref=e209]
+                    - button "Download raw file" [ref=e213] [cursor=pointer]:
+                      - img [ref=e214]
+                  - generic [ref=e217]:
+                    - button "You must be signed in to make or propose changes" [disabled] [ref=e219]:
+                      - img [ref=e220]
+                    - button "More edit options" [ref=e223] [cursor=pointer]:
+                      - img [ref=e224]
+                - button "Outline" [ref=e226] [cursor=pointer]:
+                  - img [ref=e227]
+            - region [ref=e230]:
+              - article [ref=e232]:
+                - generic [ref=e233]:
+                  - link "banner" [ref=e234] [cursor=pointer]:
+                    - /url: /Siborne/Siborne/blob/main/assets/banner.jpg
+                    - img "banner" [ref=e235]
+                  - link "decorative" [ref=e236] [cursor=pointer]:
+                    - /url: https://camo.githubusercontent.com/86b16024234789ef524940bc9057e9549d0d4d81322a66becf844faea56b3573/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d7472616e73706172656e7426636f6c6f723d303a3538413646462d313a3741413246372d302e353a433739324541266865696768743d383026746578743d26666f6e7453697a653d3330
+                    - img "decorative" [ref=e237]
+                  - link "typing" [ref=e238] [cursor=pointer]:
+                    - /url: https://git.io/typing-svg
+                    - img "typing" [ref=e239]
+                  - link "wave" [ref=e241] [cursor=pointer]:
+                    - /url: https://camo.githubusercontent.com/d10b57636744d24ece2f9dbac6c4073d637131650073bce2435d23dd0526bdb7/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f31326f75664342304d795a31476f2f67697068792e676966
+                    - img "wave" [ref=e242]
+                  - link "spark" [ref=e244] [cursor=pointer]:
+                    - /url: https://camo.githubusercontent.com/5417b2eeea698072b823820f973c430610314505b97d2acf286a91797e460d1d/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966
+                    - img "spark" [ref=e245]
+                  - link "Email" [ref=e246] [cursor=pointer]:
+                    - /url: mailto:bo7785888@gmail.com
+                    - img "Email" [ref=e247]
+                  - link "GitHub" [ref=e248] [cursor=pointer]:
+                    - /url: https://github.com/Siborne
+                    - img "GitHub" [ref=e249]
+                  - link "Blog" [ref=e250] [cursor=pointer]:
+                    - /url: https://siborne.top
+                    - img "Blog" [ref=e251]
+                  - link "Bilibili" [ref=e252] [cursor=pointer]:
+                    - /url: https://space.bilibili.com/511148907
+                    - img "Bilibili" [ref=e253]
+                - separator [ref=e254]
+                - generic [ref=e255]:
+                  - heading "👨‍💻 About Me" [level=3] [ref=e256]
+                  - 'link "Permalink: 👨‍💻 About Me" [ref=e257] [cursor=pointer]':
+                    - /url: "#‍-about-me"
+                    - img [ref=e258]
+                - generic [ref=e260]:
+                  - generic [ref=e261]: "const Siborne = { pronouns: \"He\" | \"Him\", identity: [\"Full-Stack Developer\", \"AI Agent Engineer\", \"Student\"], internship: { company: \"Kingsoft Office (WPS)\", role: \"Data Analysis Intern\", period: \"Dec 2025 – Present\" }, askMeAbout: [ \"🤖 AI Agent Engineering\", \"⚙️ SOP Automation\", \"🐧 Spring Ecosystem\", \"🚀 Vibe Coding\" ], technologies: { backEnd: { java: [\"Spring Boot 3\", \"Spring Cloud Alibaba ☁️\", \"Spring AI\", \"MyBatis-Plus\"], js: [\"Node.js\", \"Express\"], architecture: [\"Microservices\", \"Event-Driven\", \"RESTful APIs\"] }, frontEnd: { frameworks: [\"Vue.js 3 🐦\", \"React ⚛️\", \"Next.js\", \"Electron ⚡\"], css: [\"Tailwind 🎨\", \"Sass\", \"Element Plus 📦\"], logic: [\"Pinia\", \"Vite\", \"Responsive Design\"] }, cloudNative: { container: [\"Docker 🐳\", \"Kubernetes (K8s) ☸️\"], devOps: [\"CI/CD\", \"GitHub Actions 🤖\", \"Nginx 🛡️\", \"Jenkins\"], cloud: [\"AWS (Fargate, Lambda, S3)\", \"Alibaba Cloud\"] }, aiAgent: { core: [\"GPT 🤖\", \"Vectorization 🗺️\", \"AI-driven SOPs\", \"Prompt Engineering\"], tools: [\"Cursor\", \"Trae\", \"Code Review Automation\"] }, databases: [\"MySQL 📊\", \"Redis 🚀\", \"PostgreSQL\", \"MongoDB\", \"SQLite\"], efficiency: [\"Obsidian 📒\", \"Mermaid.js 📊\", \"Markdown Masters\"] }, funFact: \"I can debug faster with a coffee in hand ☕!\" };"
+                  - button "Copy code to clipboard" [ref=e263] [cursor=pointer]:
+                    - img [ref=e264]
+                - separator [ref=e267]
+                - generic [ref=e268]:
+                  - heading "🛠️ Tech Stack" [level=3] [ref=e269]
+                  - 'link "Permalink: 🛠️ Tech Stack" [ref=e270] [cursor=pointer]':
+                    - /url: "#️-tech-stack"
+                    - img [ref=e271]
+                - table [ref=e275]:
+                  - rowgroup [ref=e276]:
+                    - 'row "☁️ Cloud Native & Infrastructure Permalink: ☁️ Cloud Native & Infrastructure cloud ☕ Back-End & AI Development Permalink: ☕ Back-End & AI Development backend 🎨 Front-End & Cross-Platform Permalink: 🎨 Front-End & Cross-Platform frontend ✍️ Productivity & Knowledge Base Permalink: ✍️ Productivity & Knowledge Base productivity coding" [ref=e277]':
+                      - 'cell "☁️ Cloud Native & Infrastructure Permalink: ☁️ Cloud Native & Infrastructure cloud ☕ Back-End & AI Development Permalink: ☕ Back-End & AI Development backend 🎨 Front-End & Cross-Platform Permalink: 🎨 Front-End & Cross-Platform frontend ✍️ Productivity & Knowledge Base Permalink: ✍️ Productivity & Knowledge Base productivity" [ref=e278]':
+                        - generic [ref=e279]:
+                          - heading "☁️ Cloud Native & Infrastructure" [level=4] [ref=e280]
+                          - 'link "Permalink: ☁️ Cloud Native & Infrastructure" [ref=e281] [cursor=pointer]':
+                            - /url: "#️-cloud-native--infrastructure"
+                            - img [ref=e282]
+                        - link "cloud" [ref=e284] [cursor=pointer]:
+                          - /url: https://skillicons.dev
+                          - img "cloud" [ref=e285]
+                        - generic [ref=e286]:
+                          - heading "☕ Back-End & AI Development" [level=4] [ref=e287]
+                          - 'link "Permalink: ☕ Back-End & AI Development" [ref=e288] [cursor=pointer]':
+                            - /url: "#-back-end--ai-development"
+                            - img [ref=e289]
+                        - link "backend" [ref=e291] [cursor=pointer]:
+                          - /url: https://skillicons.dev
+                          - img "backend" [ref=e292]
+                        - generic [ref=e293]:
+                          - heading "🎨 Front-End & Cross-Platform" [level=4] [ref=e294]
+                          - 'link "Permalink: 🎨 Front-End & Cross-Platform" [ref=e295] [cursor=pointer]':
+                            - /url: "#-front-end--cross-platform"
+                            - img [ref=e296]
+                        - link "frontend" [ref=e298] [cursor=pointer]:
+                          - /url: https://skillicons.dev
+                          - img "frontend" [ref=e299]
+                        - generic [ref=e300]:
+                          - heading "✍️ Productivity & Knowledge Base" [level=4] [ref=e301]
+                          - 'link "Permalink: ✍️ Productivity & Knowledge Base" [ref=e302] [cursor=pointer]':
+                            - /url: "#️-productivity--knowledge-base"
+                            - img [ref=e303]
+                        - link "productivity" [ref=e305] [cursor=pointer]:
+                          - /url: https://skillicons.dev
+                          - img "productivity" [ref=e306]
+                      - cell "coding" [ref=e307]:
+                        - link "coding" [ref=e309] [cursor=pointer]:
+                          - /url: https://camo.githubusercontent.com/e57e0055b4687ec058cefc0ae09edac4926ad06321dd1ac4eb54898142d158aa/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966
+                          - img "coding" [ref=e310]
+                - separator [ref=e311]
+                - generic [ref=e312]:
+                  - heading "📊 GitHub Stats" [level=3] [ref=e313]
+                  - 'link "Permalink: 📊 GitHub Stats" [ref=e314] [cursor=pointer]':
+                    - /url: "#-github-stats"
+                    - img [ref=e315]
+                - generic [ref=e317]:
+                  - link "stats" [ref=e318] [cursor=pointer]:
+                    - /url: https://camo.githubusercontent.com/816dd7d8dfab2488d0d0cc17cd35bf0d2707877b029f5e44dd9efe7e8841f3ea/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d5369626f726e652673686f775f69636f6e733d74727565267468656d653d7261646963616c26686964655f626f726465723d747275652662675f636f6c6f723d303030303030303026636f756e745f707269766174653d74727565
+                    - img "stats" [ref=e319]
+                  - link "languages" [ref=e320] [cursor=pointer]:
+                    - /url: https://camo.githubusercontent.com/82b6ee7a84f10b99c640c3e8a77a6056476627e6af47ab3879320fcc4a0b2be1/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d5369626f726e65266c61796f75743d636f6d70616374267468656d653d7261646963616c26686964655f626f726465723d747275652662675f636f6c6f723d3030303030303030
+                    - img "languages" [ref=e321]
+                - link "streak" [ref=e323] [cursor=pointer]:
+                  - /url: https://camo.githubusercontent.com/4bf146573ca38ef40436f79f62791df56a28a6474c7bb6e27bd548cb52ae8243/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d5369626f726e65267468656d653d7261646963616c26686964655f626f726465723d74727565266261636b67726f756e643d3030303030303030
+                  - img "streak" [ref=e324]
+                - separator [ref=e325]
+                - generic [ref=e326]:
+                  - heading "🐍 Contribution Snake" [level=3] [ref=e327]
+                  - 'link "Permalink: 🐍 Contribution Snake" [ref=e328] [cursor=pointer]':
+                    - /url: "#-contribution-snake"
+                    - img [ref=e329]
+                - img "snake animation" [ref=e334]
+                - separator [ref=e335]
+                - link "views" [ref=e337] [cursor=pointer]:
+                  - /url: https://camo.githubusercontent.com/7b6f20d1d39f921ba6be64e98306892b0a12b3332a9c14e2ff0d5c99c208e78c/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d5369626f726e65267374796c653d666c617426636f6c6f723d374141324637266c6162656c3d50726f66696c652b5669657773
+                  - img "views" [ref=e338]
+  - alert [ref=e342]
