@@ -6,8 +6,9 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=800&color=7AA2F7&center=true&vCenter=true&width=600&lines=%22Vibe+Coding%22+Enthusiast+·+AI+Agent+Developer+·+Student" alt="typing" />
   </a>
-
+  
   <br>
+
   <!-- 社交链接 -->
   <a href="https://github.com/Siborne">
     <img src="https://img.shields.io/badge/GitHub-282C34?style=flat&logo=github&logoColor=FFFFFF" alt="GitHub" />
@@ -26,8 +27,6 @@
     <img src="https://img.shields.io/badge/LeetCode-Siborne-FFA116?style=flat&logo=LeetCode&logoColor=FFFFFF" alt="LeetCode" />
   </a>
 </div>
-
-<br/>
 
 <div align="center">
   <h2>Building in the AI Era</h2>
