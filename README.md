@@ -1,8 +1,7 @@
 <div align="center">
   <!-- 本地 Banner + 动态胶囊渲染叠加 -->
   <img src="assets/banner.jpg" width="88%" alt="banner" style="border-radius: 12px; margin-bottom: 10px;" />
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=0:58A6FF-1:7AA2F7-0.5:C792EA&height=80&text=&fontSize=30" alt="decorative" />
-  
+
   <!-- 打字机动效 -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=800&color=7AA2F7&center=true&vCenter=true&width=600&lines=%22Vibe+Coding%22+Enthusiast+·+AI+Agent+Developer+·+Student" alt="typing" />
