@@ -35,29 +35,21 @@
 </div>
 
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats And Contribution
 
 <p align="center">
+  
   <a href="https://github.com/Siborne">
-    <img src="https://github-readme-stats.vercel.app/api?username=Siborne&show_icons=true&theme=visionary&rank_icon=github&count_private=true&include_all_commits=true&cache_seconds=1800&v=1" alt="Siborne's GitHub Stats" height="192px" />
+    <img src="https://github-stats-extended.vercel.app/api?username=Siborne&show_icons=true&include_all_commits=true&theme=ambient_gradient" alt="Siborne's GitHub Stats" height="192px" />
   </a>
   <a href="https://github.com/Siborne">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siborne&layout=compact&theme=tokyonight&hide_border=false&langs_count=8&cache_seconds=1800&v=1" alt="Siborne's Top Languages" height="192px" />
-  </a>
-</p>
-
-### 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
+     <picture>
     <a href="https://github.com/Siborne">
-    <img src="https://streak-stats.demolab.com/?user=Siborne&theme=tokyonight&hide_border=false" alt="Siborne's GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=Siborne&theme=ambient_gradient&hide_border=false" alt="Siborne's GitHub Streak" />
     </a>
   </picture>
-</div>
-
-<br/>
-
+  </a>
+</p>
 
 ### 💼 Professional Experience
 
