@@ -39,10 +39,10 @@
 
 <p align="center">
   <a href="https://github.com/Siborne">
-    <img src="https://github-stats-extended.vercel.app/api?username=Siborne&show_icons=true&include_all_commits=true&theme=ambient_gradient" alt="Siborne's GitHub Stats" height="192px" />
+    <img src="https://github-stats-extended.vercel.app/api?username=Siborne&show_icons=true&include_all_commits=true&theme=ambient_gradient" alt="Siborne's GitHub Stats" height="172px" />
   </a>
   <a href="https://github.com/Siborne">
-    <img src="https://streak-stats.demolab.com/?user=Siborne&theme=ambient_gradient&hide_border=false" alt="Siborne's GitHub Streak" height="192px"/>
+    <img src="https://streak-stats.demolab.com/?user=Siborne&theme=ambient_gradient&hide_border=false" alt="Siborne's GitHub Streak" height="172px"/>
   </a>
 </p>
 
@@ -50,7 +50,7 @@
 
 <p align="center">
   <a href="https://github.com/Siborne">
-    <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D Contribution" width="600" />
+    <img src="./profile-3d-contrib/profile-season-animate.svg" alt="3D Contribution" width="600" />
   </a>
 </p>
 
