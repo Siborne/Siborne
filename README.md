@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/badge/Bilibili-00A1D6?style=flat&logo=bilibili&logoColor=FFFFFF" alt="Bilibili" />
   </a>
   <a href="mailto:bo7785888@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-bo7785888@gmail.com-EA4335?style=flat&logo=gmail&logoColor=FFFFFF" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-siborne.dev@gmail.com-EA4335?style=flat&logo=gmail&logoColor=FFFFFF" alt="Email" />
   </a>
   <a href="https://leetcode.cn/u/siborne/">
     <img src="https://img.shields.io/badge/LeetCode-Siborne-FFA116?style=flat&logo=LeetCode&logoColor=FFFFFF" alt="LeetCode" />
