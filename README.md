@@ -63,6 +63,16 @@ I like turning ideas into tools that are actually useful. 🚀
   </a>
 </p>
 
+### ⏱️ Coding & AI Analytics
+
+<!--START_SECTION:waka-ranges-->
+_Waiting for the first WakaTime range sync..._
+<!--END_SECTION:waka-ranges-->
+
+<!--START_SECTION:waka-->
+_Waiting for the first WakaTime sync..._
+<!--END_SECTION:waka-->
+
 <!-- <div>
 ### 🌐 3D Contribution Profile
 

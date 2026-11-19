@@ -1,0 +1,42 @@
+name: WakaTime Range Analysis
+
+on:
+  schedule:
+    - cron: "45 18 * * *" # 02:45 Asia/Shanghai
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-readme-update
+  cancel-in-progress: false
+
+jobs:
+  update-ranges:
+    name: Update WakaTime range analysis
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate range analysis
+        env:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+        run: python scripts/waka_ranges.py
+
+      - name: Commit README changes
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add README.md
+          if git diff --cached --quiet; then
+            echo "No README changes"
+          else
+            git commit -m "chore: update WakaTime range analysis"
+            git pull --rebase
+            git push
+          fi
