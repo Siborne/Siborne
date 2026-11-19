@@ -70,7 +70,54 @@ _Waiting for the first WakaTime range sync..._
 <!--END_SECTION:waka-ranges-->
 
 <!--START_SECTION:waka-->
-_Waiting for the first WakaTime sync..._
+![Code Time](http://img.shields.io/badge/Code%20Time-219%20hrs%201%20min-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-59%20hrs%2015%20mins-blue?style=flat)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Java                     2 hrs 11 mins       ████████░░░░░░░░░░░░░░░░░   30.83 % 
+Markdown                 1 hr 30 mins        █████░░░░░░░░░░░░░░░░░░░░   21.15 % 
+C                        1 hr 27 mins        █████░░░░░░░░░░░░░░░░░░░░   20.43 % 
+Other                    46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.93 % 
+JSON                     42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.96 % 
+
+🔥 Editors: 
+IntelliJ IDEA            3 hrs 47 mins       █████████████░░░░░░░░░░░░   53.25 % 
+VS Code                  3 hrs 13 mins       ███████████░░░░░░░░░░░░░░   45.36 % 
+Claude Code              5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
+
+💻 Operating System: 
+Windows                  7 hrs 6 mins        █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 3 hrs (42.23%)
+
+✍️ 5,093 lines written by AI, 337 lines written by hand (93.79% AI-written)
+
+🔤 5,741,523 Input Tokens, 464,589 Output Tokens
+
+💵 $310.51 Estimated AI Cost This Week
+
+🧠 5 AI Sessions, 26 AI Prompts
+
+Intellijidea             3,849 lines         ███████████████████░░░░░░   75.41 % 
+Vscode                   1,255 lines         ██████░░░░░░░░░░░░░░░░░░░   24.59 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 93.79% of written lines came from AI
+📚 Verbose Prompter — average 1,811 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 8.09% of changed lines were hand-edited
+```
+
+
+ Last Updated on 2026-11-19 11:40 UTC
 <!--END_SECTION:waka-->
 
 <!-- <div>
