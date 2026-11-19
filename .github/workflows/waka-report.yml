@@ -1,4 +1,4 @@
-name: WakaTime Range Analysis
+name: WakaTime Report
 
 on:
   schedule:
@@ -13,8 +13,8 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  update-ranges:
-    name: Update WakaTime range analysis
+  update-report:
+    name: Refresh WakaTime report
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -23,20 +23,20 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Generate range analysis
+      - name: Generate README summary and WakaTime report
         env:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-        run: python scripts/waka_ranges.py
+        run: python scripts/waka_report.py
 
-      - name: Commit README changes
+      - name: Commit README and report
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
-          git add README.md
+          git add README.md WAKATIME.md
           if git diff --cached --quiet; then
             echo "No README changes"
           else
-            git commit -m "chore: update WakaTime range analysis"
+            git commit -m "chore: refresh WakaTime report"
             git pull --rebase
             git push
           fi
