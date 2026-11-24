@@ -2,69 +2,69 @@
 
 [← Back to profile](README.md)
 
-_Last updated: 2026-11-22 23:51 UTC_
+_Last updated: 2026-11-24 04:05 UTC_
 
 ## Coding Time by Range
 
 | Range | Total | Daily average | Best day | Days coded |
 |---|---|---|---|---|
-| 7 days | 11 hrs 58 mins | 2 hrs 23 mins | 2026-11-18 · 3 hrs 47 mins | 5 / 7 |
-| 30 days | 54 hrs 5 mins | 3 hrs 10 mins | 2026-11-04 · 10 hrs 3 mins | 17 / 30 |
-| 6 months | 340 hrs 13 mins | 2 hrs 47 mins | 2026-11-04 · 10 hrs 3 mins | 122 / 182 |
-| 1 year | 1,007 hrs 14 mins | 3 hrs 32 mins | 2026-05-04 · 9 hrs 5 mins | 285 / 365 |
-| All time | 1,364 hrs 53 mins | 3 hrs 14 mins | 2026-05-04 · 9 hrs 5 mins | 422 / 625 |
+| 7 days | 15 hrs 55 mins | 2 hrs 39 mins | 2026-11-18 · 5 hrs 20 mins | 6 / 7 |
+| 30 days | 54 hrs 36 mins | 3 hrs 2 mins | 2026-11-04 · 10 hrs 3 mins | 18 / 30 |
+| 6 months | 338 hrs 25 mins | 2 hrs 46 mins | 2026-11-04 · 10 hrs 3 mins | 122 / 182 |
+| 1 year | 1,005 hrs 13 mins | 3 hrs 31 mins | 2026-05-04 · 9 hrs 5 mins | 285 / 365 |
+| All time | 1,366 hrs 24 mins | 3 hrs 13 mins | 2026-05-04 · 9 hrs 5 mins | 424 / 627 |
 
 ## AI Coding by Range
 
 | Range | AI time | AI / human written lines | Tokens (in / out) | Est. cost | Sessions / prompts | Top model / tool | Prompt / session style |
 |---|---|---|---|---|---|---|---|
-| 7 days | 5 hrs 8 mins (43.0%) | 23,708 / 1,290 (94.8% AI) | 5,488,369 / 1,185,845 | $555.27 | 18 / 89 | DeepSeek (65.2%) | Detailed / Iterative |
-| 30 days | 46 hrs 50 mins (86.6%) | 97,446 / 2,268 (97.7% AI) | 41,314,950 / 4,913,847 | $5,506.95 | 77 / 472 | Intellijidea (78.5%) | Verbose / Iterative |
-| 6 months | 68 hrs 19 mins (20.1%) | 133,839 / 34,022 (79.7% AI) | 249,269,188 / 6,446,838 | $6,873.86 | 200 / 952 | Intellijidea (56.3%) | Verbose / Iterative |
-| 1 year | 54 hrs 25 mins (5.4%) | 105,516 / 78,152 (57.4% AI) | 272,794,035 / 3,297,250 | $1,557.52 | 342 / 1,350 | Claude (48.1%) | Verbose / Iterative |
-| All time | 62 hrs 42 mins (4.6%) | 146,852 / 91,938 (61.5% AI) | 280,198,936 / 4,853,178 | $2,771.47 | 355 / 1,425 | Claude (34.3%) | Verbose / Iterative |
+| 7 days | 11 hrs 41 mins (73.4%) | 37,266 / 1,114 (97.1% AI) | 9,347,635 / 1,974,470 | $1,629.88 | 20 / 136 | DeepSeek (46.7%) | Detailed / Iterative |
+| 30 days | 47 hrs 18 mins (86.7%) | 100,197 / 2,268 (97.8% AI) | 41,386,486 / 4,990,442 | $5,535.80 | 78 / 474 | Intellijidea (76.3%) | Verbose / Iterative |
+| 6 months | 67 hrs 11 mins (19.9%) | 136,483 / 34,022 (80.0% AI) | 236,265,626 / 6,444,614 | $6,768.02 | 199 / 939 | Intellijidea (55.2%) | Verbose / Iterative |
+| 1 year | 55 hrs 13 mins (5.5%) | 107,579 / 78,152 (57.9% AI) | 272,977,634 / 3,442,400 | $1,639.21 | 343 / 1,358 | Claude (47.2%) | Verbose / Iterative |
+| All time | 63 hrs 58 mins (4.7%) | 151,666 / 91,938 (62.3% AI) | 280,454,071 / 5,074,923 | $2,882.01 | 357 / 1,435 | Claude (33.2%) | Verbose / Iterative |
 
 ## This Week I Spent My Time On
 
 ```text
 💬 Programming Languages:
-Java                     3 hrs 21 mins        ███████░░░░░░░░░░░░░░░░░░   28.00 %
-Markdown                 2 hrs 7 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.75 %
-C                        1 hr 32 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.93 %
-XML                      48 mins              ██░░░░░░░░░░░░░░░░░░░░░░░    6.80 %
-YAML                     43 mins              ██░░░░░░░░░░░░░░░░░░░░░░░    6.10 %
+Markdown                 4 hrs 8 mins         ███████░░░░░░░░░░░░░░░░░░   26.03 %
+TypeScript               2 hrs 49 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.75 %
+Java                     2 hrs 49 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.70 %
+JavaScript               1 hr 11 mins         ██░░░░░░░░░░░░░░░░░░░░░░░    7.48 %
+Other                    50 mins              █░░░░░░░░░░░░░░░░░░░░░░░░    5.33 %
 
 🔥 Editors:
-IntelliJ IDEA            5 hrs 56 mins        ████████████░░░░░░░░░░░░░   49.63 %
-Codex Vscode             2 hrs 49 mins        ██████░░░░░░░░░░░░░░░░░░░   23.64 %
-VS Code                  1 hr 27 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.14 %
+IntelliJ IDEA            7 hrs 18 mins        ███████████░░░░░░░░░░░░░░   45.90 %
+WindowsTerminalHost      4 hrs 15 mins        ███████░░░░░░░░░░░░░░░░░░   26.75 %
+Codex Vscode             3 hrs 31 mins        ██████░░░░░░░░░░░░░░░░░░░   22.16 %
 
 💻 Operating System:
-Windows                  11 hrs 58 mins       █████████████████████████   100.00 %
+Windows                  15 hrs 55 mins       █████████████████████████   100.00 %
 ```
 
 ## AI Coding This Week
 
 ```text
-⏱ AI Coding Time: 5 hrs 8 mins (42.99%)
+⏱ AI Coding Time: 11 hrs 41 mins (73.41%)
 
-✍️ 23,708 lines written by AI, 1,290 lines written by hand (94.84% AI-written)
+✍️ 37,266 lines written by AI, 1,114 lines written by hand (97.10% AI-written)
 
-🔤 5,488,369 Input Tokens, 1,185,845 Output Tokens
+🔤 9,347,635 Input Tokens, 1,974,470 Output Tokens
 
-💵 $555.27 Estimated AI Cost This Week
+💵 $1,629.88 Estimated AI Cost This Week
 
-🧠 18 AI Sessions, 89 AI Prompts
+🧠 20 AI Sessions, 136 AI Prompts
 
-DeepSeek                 15,588 lines         ████████████████░░░░░░░░░   65.22 %
-Codex-Vscode             4,463 lines          █████░░░░░░░░░░░░░░░░░░░░   18.67 %
-Intellijidea             3,849 lines          ████░░░░░░░░░░░░░░░░░░░░░   16.10 %
+DeepSeek                 17,669 lines         ████████████░░░░░░░░░░░░░   46.74 %
+Intellijidea             10,120 lines         ███████░░░░░░░░░░░░░░░░░░   26.77 %
+Codex-Vscode             10,011 lines         ███████░░░░░░░░░░░░░░░░░░   26.48 %
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 94.84% of written lines came from AI
-📝 Detailed Prompter — average 853 characters per prompt
-🔁 Iterative Prompter — average 5.0 prompts per session
-🔍 High AI Trust — 6.23% of changed lines were hand-edited
+🤖 AI-Driven — 97.10% of written lines came from AI
+📝 Detailed Prompter — average 705 characters per prompt
+🔁 Iterative Prompter — average 7.0 prompts per session
+🔍 High AI Trust — 3.45% of changed lines were hand-edited
 ```
 
 > AI model/tool names are reported by WakaTime. Some tools report the editor name when the model is unavailable.
