@@ -65,27 +65,27 @@ I like turning ideas into tools that are actually useful. 🚀
 
 <!--START_SECTION:waka-summary-->
 <p align="center">
-  <img src="https://img.shields.io/badge/Code%20Time-1%2C366%20hrs%2024%20mins-blue?style=flat" alt="Code Time" />
-  <img src="https://img.shields.io/badge/AI%20Code%20Time-63%20hrs%2058%20mins-blue?style=flat" alt="AI Code Time" />
+  <img src="https://img.shields.io/badge/Code%20Time-1%2C366%20hrs%2035%20mins-blue?style=flat" alt="Code Time" />
+  <img src="https://img.shields.io/badge/AI%20Code%20Time-64%20hrs%204%20mins-blue?style=flat" alt="AI Code Time" />
 </p>
 
 **📊 This Week I Spent My Time On**
 
 ```text
 💬 Programming Languages:
-Java                     1 hr 9 mins          ████░░░░░░░░░░░░░░░░░░░░░   14.78 %
-Markdown                 1 hr 6 mins          ████░░░░░░░░░░░░░░░░░░░░░   14.16 %
-Other                    55 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.73 %
-Python                   48 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.28 %
-XML                      43 mins              ██░░░░░░░░░░░░░░░░░░░░░░░    9.34 %
+Java                     55 mins              █████░░░░░░░░░░░░░░░░░░░░   20.03 %
+XML                      43 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.84 %
+Python                   37 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.50 %
+Other                    36 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.23 %
+TypeScript               26 mins              ██░░░░░░░░░░░░░░░░░░░░░░░    9.41 %
 
 🔥 Editors:
-Codex Vscode             3 hrs 36 mins        ████████████░░░░░░░░░░░░░   46.05 %
-IntelliJ IDEA            2 hrs 9 mins         ███████░░░░░░░░░░░░░░░░░░   27.46 %
-WindowsTerminalHost      1 hr 24 mins         █████░░░░░░░░░░░░░░░░░░░░   18.05 %
+IntelliJ IDEA            2 hrs 9 mins         ████████████░░░░░░░░░░░░░   46.56 %
+Codex Vscode             1 hr 42 mins         █████████░░░░░░░░░░░░░░░░   36.97 %
+WindowsTerminalHost      31 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.32 %
 
 💻 Operating System:
-Windows                  7 hrs 50 mins        █████████████████████████   100.00 %
+Windows                  4 hrs 37 mins        █████████████████████████   100.00 %
 ```
 
 [View full WakaTime analytics →](WAKATIME.md)
