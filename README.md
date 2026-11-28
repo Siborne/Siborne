@@ -73,19 +73,19 @@ I like turning ideas into tools that are actually useful. 🚀
 
 ```text
 💬 Programming Languages:
-Java                     55 mins              █████░░░░░░░░░░░░░░░░░░░░   20.03 %
-XML                      43 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.84 %
-Python                   37 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.50 %
-Other                    36 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.23 %
-TypeScript               26 mins              ██░░░░░░░░░░░░░░░░░░░░░░░    9.41 %
+Python                   37 mins              ███████░░░░░░░░░░░░░░░░░░   27.84 %
+Other                    19 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.40 %
+Markdown                 17 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.16 %
+HTML                     17 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.87 %
+Java                     14 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.90 %
 
 🔥 Editors:
-IntelliJ IDEA            2 hrs 9 mins         ████████████░░░░░░░░░░░░░   46.56 %
-Codex Vscode             1 hr 42 mins         █████████░░░░░░░░░░░░░░░░   36.97 %
-WindowsTerminalHost      31 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.32 %
+Codex Vscode             1 hr 13 mins         ██████████████░░░░░░░░░░░   54.79 %
+IntelliJ IDEA            32 mins              ██████░░░░░░░░░░░░░░░░░░░   24.43 %
+WindowsTerminalHost      27 mins              █████░░░░░░░░░░░░░░░░░░░░   20.73 %
 
 💻 Operating System:
-Windows                  4 hrs 37 mins        █████████████████████████   100.00 %
+Windows                  2 hrs 14 mins        █████████████████████████   100.00 %
 ```
 
 [View full WakaTime analytics →](WAKATIME.md)
